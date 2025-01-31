@@ -27,6 +27,16 @@
         return `https://registration.boun.edu.tr/scripts/schedule/coursedescription.asp?course=${code}&section=${section}&term=${term}`;
     }
 
+    // deneyeceğiz.
+    function getQuotaLink () {
+        const [abbr, codeSection] = course.code.split(" ");
+        const [code, section] = codeSection.split(".");
+        const term = currentSemester.replace("-", "%2F");
+        const quotaUrl = `https://registration.bogazici.edu.tr/scripts/quotasearch.asp?abbr=${abbr}&code=${code}&section=${section}&donem=${term}`;
+        return quotaUrl;
+    }
+
+
     function calcConflict(course, selectedCourseNames, curSemesterData) {
         const { hours, days } = curSemesterData[course];
         let conflicts = [];
@@ -56,6 +66,8 @@
         conflicts = conflicts;
         return conflicts;
     }
+
+    
 </script>
 
 <div
