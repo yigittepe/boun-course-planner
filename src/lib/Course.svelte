@@ -3,6 +3,7 @@
     import IconMinus from "./IconMinus.svelte";
     import IconDocument from "./IconDocument.svelte";
     import IconQuota from "./IconQuota.svelte";
+    import IconCim from "./IconCim.svelte";
     import {
         selectedCourseNamesAll,
         selectedCourseNames,
@@ -22,10 +23,9 @@
         $curSemesterData
     );
 
-    function getSyllabusLink() {
-        const [code, section] = course.code.split(".");
-        const term = currentSemester.replace("-", "%2F");
-        return `https://registration.boun.edu.tr/scripts/schedule/coursedescription.asp?course=${code}&section=${section}&term=${term}`;
+    function getBounCimLink(coursecode) {
+        const [code] = coursecode.split(".");
+        return `https://www.bouncim.com/lessons/show/${code}`;
     }
     // deneme syllabus link
     function getSyllabusLink2(coursecode) {
@@ -93,6 +93,14 @@
                 {courseName}
             </span>
             <span class="text-sm break-all">{course.name}</span>
+            <a
+                href="{getBounCimLink(courseName)}" 
+                target="_blank"
+                rel="noopener noreferrer"
+                class="ml-2 cursor-pointer"
+            >
+                <IconCim />
+            </a>
             <span class="ml-auto mr-2"> <!--  -->
                 {#if conflicts.length > 0}
                     <span class="text-red-500 text-xs font-medium p-1"
