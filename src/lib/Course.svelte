@@ -2,6 +2,7 @@
     import IconPlus from "./IconPlus.svelte";
     import IconMinus from "./IconMinus.svelte";
     import IconDocument from "./IconDocument.svelte";
+    import IconQuota from "./IconQuota.svelte";
     import {
         selectedCourseNamesAll,
         selectedCourseNames,
@@ -34,8 +35,8 @@
     }
 
     // deneyeceğiz.
-    function getQuotaLink () {
-        const [abbr, codeSection] = course.code.split(" ");
+    function getQuotaLink(coursecode) {
+        const [abbr, codeSection] = coursecode.split(" ");
         const [code, section] = codeSection.split(".");
         const term = currentSemester.replace("-", "%2F");
         const quotaUrl = `https://registration.bogazici.edu.tr/scripts/quotasearch.asp?abbr=${abbr}&code=${code}&section=${section}&donem=${term}`;
@@ -92,7 +93,7 @@
                 {courseName}
             </span>
             <span class="text-sm break-all">{course.name}</span>
-            <span class="ml-auto mr-2">
+            <span class="ml-auto mr-2"> <!--  -->
                 {#if conflicts.length > 0}
                     <span class="text-red-500 text-xs font-medium p-1"
                         >Conflict</span
@@ -115,15 +116,15 @@
         </div>
         <div>
             <span class="mr-2">{course.instructor}</span>
-            {#if "days" in course}
+            {#if "days" in course && course.days.length > 0} 
                 <!-- <span class="mr-2">Days: {course.days.join("")}</span> -->
                 <span class="mr-2">📅 {course.days.join("")}</span>
             {/if}
-            {#if "hours" in course}
+            {#if "hours" in course && course.hours.length > 0}
                 <!-- <span class="mr-2">Hours: {course.hours.join("")}</span> -->
                 <span class="mr-2">⏱️ {course.hours.join("")}</span>
             {/if}
-            {#if "rooms" in course}
+            {#if "rooms" in course && course.rooms[0] != ""}
                 <!-- <span class="">Rooms: {course.rooms.join(" ")}</span> -->
                 <span class="">🏠 {course.rooms.join(" ")}</span>
             {/if}
@@ -149,6 +150,14 @@
     </div>
     <div class="flex flex-col items-end shrink-0">
         <div class="flex flex-col-reverse sm:flex-row ">
+            <!-- <a
+                href={getQuotaLink(course.code)} 
+                target="_blank"
+                rel="noopener noreferrer"
+                class="block mr-0 mt-2 sm:mr-2 sm:mt-0 bg-gray-100 hover:bg-gray-200 text-gray-600 hover:text-gray-800 dark:bg-gray-900 dark:hover:bg-gray-800 dark:text-gray-400 dark:hover:text-gray-200 p-2 text-center"
+            >
+                <IconDocument />
+            </a> -->
             <a
                 href={getSyllabusLink2(course.code)} 
                 target="_blank"
