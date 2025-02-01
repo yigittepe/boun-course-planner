@@ -93,14 +93,16 @@
                 {courseName}
             </span>
             <span class="text-sm break-all">{course.name}</span>
-            <a
-                href="{getBounCimLink(courseName)}" 
-                target="_blank"
-                rel="noopener noreferrer"
-                class="ml-2 cursor-pointer"
-            >
-                <IconCim />
-            </a>
+            {#if !(course.name.includes("P.S.")) && !(course.name.includes("LAB"))}
+                <a
+                    href="{getBounCimLink(courseName)}" 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="ml-2 cursor-pointer"
+                >
+                    <IconCim />
+                </a>
+            {/if}
             <span class="ml-auto mr-2"> <!--  -->
                 {#if conflicts.length > 0}
                     <span class="text-red-500 text-xs font-medium p-1"
