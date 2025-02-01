@@ -95,12 +95,20 @@
             <span class="text-sm break-all">{course.name}</span>
             {#if !(course.name.includes("P.S.")) && !(course.name.includes("LAB"))}
                 <a
-                    href="{getBounCimLink(courseName)}" 
+                    href={getBounCimLink(courseName)} 
                     target="_blank"
                     rel="noopener noreferrer"
                     class="ml-2 cursor-pointer"
                 >
                     <IconCim />
+                </a>
+                <a
+                    href={getQuotaLink(course.code)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="ml-2 cursor-pointer"
+                >
+                    <IconQuota />
                 </a>
             {/if}
             <span class="ml-auto mr-2"> <!--  -->
