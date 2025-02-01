@@ -14,7 +14,7 @@
     export let currentSemester;
     export let selected;
 
-    let syllabusLink = getSyllabusLink();
+    let syllabusLink = getSyllabusLink2(course.code);
     $: conflicts = calcConflict(
         courseName,
         $selectedCourseNames,
@@ -23,6 +23,12 @@
 
     function getSyllabusLink() {
         const [code, section] = course.code.split(".");
+        const term = currentSemester.replace("-", "%2F");
+        return `https://registration.boun.edu.tr/scripts/schedule/coursedescription.asp?course=${code}&section=${section}&term=${term}`;
+    }
+    // deneme syllabus link
+    function getSyllabusLink2(coursecode) {
+        const [code, section] = coursecode.split(".");
         const term = currentSemester.replace("-", "%2F");
         return `https://registration.boun.edu.tr/scripts/schedule/coursedescription.asp?course=${code}&section=${section}&term=${term}`;
     }
@@ -98,7 +104,7 @@
                         : 'text-zinc-500 dark:text-zinc-400'}"
                 >
                     {#if "credits" in course}
-                        <span class="mr-2">{course.credits} Cr</span>
+                        <span class="mr-2">{course.credits} Cr.</span>
                     {/if}
                     {#if "ects" in course}
                         <span>{course.ects} ECTS</span>
@@ -144,7 +150,7 @@
     <div class="flex flex-col items-end shrink-0">
         <div class="flex flex-col-reverse sm:flex-row ">
             <a
-                href={syllabusLink}
+                href={getSyllabusLink2(course.code)} 
                 target="_blank"
                 rel="noopener noreferrer"
                 class="block mr-0 mt-2 sm:mr-2 sm:mt-0 bg-blue-100 hover:bg-blue-200 text-blue-600 hover:text-blue-800 dark:bg-blue-900 dark:hover:bg-blue-800 dark:text-blue-400 dark:hover:text-blue-200  p-2 text-center"
