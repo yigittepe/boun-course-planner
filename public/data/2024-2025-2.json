@@ -324,9 +324,9 @@
         "instructor": "ULAŞ AKKÜÇÜK",
         "name": "MANAGERIAL STATISTICS II (K-Z)",
         "rooms": [
-            "İB 211",
-            "İB 211",
-            "İB 211"
+            "İB 204",
+            "İB 204",
+            "İB 204"
         ]
     },
     "AD302.01": {
@@ -346,9 +346,9 @@
         "instructor": "ALPEREN MANİSALIGİL",
         "name": "RESEARCH METHODS (K-Z)",
         "rooms": [
-            "NH 203",
-            "NH 203",
-            "NH 203"
+            "İB 103",
+            "İB 103",
+            "İB 103"
         ]
     },
     "AD311.01": {
@@ -603,16 +603,16 @@
         ],
         "ects": 6.0,
         "hours": [
+            5,
             6,
-            7,
-            8
+            7
         ],
         "instructor": "İREM NUHOĞLU",
         "name": "AUDITING",
         "rooms": [
-            "İB 204",
-            "İB 204",
-            "İB 204"
+            "İB 211",
+            "İB 211",
+            "İB 211"
         ]
     },
     "AD421.01": {
@@ -769,28 +769,6 @@
             "İB 201"
         ]
     },
-    "AD487.01": {
-        "code": "AD  487.01",
-        "credits": 3,
-        "days": [
-            "T",
-            "T",
-            "T"
-        ],
-        "ects": 6.0,
-        "hours": [
-            9,
-            10,
-            11
-        ],
-        "instructor": "ALİ COŞKUN",
-        "name": "SP.TP.CURRENT TRENDS IN SEL.INDUSTRIES",
-        "rooms": [
-            "İB 201",
-            "İB 201",
-            "İB 201"
-        ]
-    },
     "AD48D.01": {
         "code": "AD  48D.01",
         "credits": 3,
@@ -817,22 +795,22 @@
         "code": "AD  48F.01",
         "credits": 3,
         "days": [
-            "T",
-            "T",
-            "T"
+            "M",
+            "M",
+            "M"
         ],
         "ects": 6.0,
         "hours": [
-            1,
-            2,
-            3
+            6,
+            7,
+            8
         ],
         "instructor": "ALPEREN MANİSALIGİL",
         "name": "SP.TP.IN MANAGEMENT GROUP DYNAMICS",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "M 2170",
+            "M 2170",
+            "M 2170"
         ]
     },
     "AD48G.01": {
@@ -1879,7 +1857,7 @@
         "days": [],
         "ects": 3.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "YUNUS EMRE TEMİZ",
         "name": "COMPANY VALUATION",
         "rooms": [
             ""
@@ -2083,7 +2061,7 @@
         "days": [],
         "ects": 3.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "ORKUN OĞUZ",
         "name": "CORPORATE ENTREPRENEURSHIP",
         "rooms": [
             ""
@@ -3002,7 +2980,7 @@
         "rooms": [
             "M 2180",
             "M 2180",
-            "İB 103"
+            "İB 211"
         ]
     },
     "AE112.01": {
@@ -3066,8 +3044,8 @@
         "instructor": "ÇİĞDEM TABAN",
         "name": "CRITICAL SKILLS IN ENGLISH II",
         "rooms": [
-            "NH 002",
-            "NH 002",
+            "NH 001",
+            "NH 001",
             "EF 04"
         ]
     },
@@ -3154,7 +3132,7 @@
         "instructor": "ÇİĞDEM TABAN",
         "name": "CRITICAL READING II",
         "rooms": [
-            "NH 002",
+            "NH 001",
             "EF 04",
             "EF 04"
         ]
@@ -3530,7 +3508,7 @@
         "rooms": [
             "EF 05",
             "EF 05",
-            "NB 118"
+            "TB 480"
         ]
     },
     "AR201.02": {
@@ -3550,9 +3528,9 @@
         "instructor": "ASUMAN EMİN",
         "name": "ARABIC I",
         "rooms": [
-            "EF 07",
-            "EF 07",
-            "EF 02"
+            "VB 100",
+            "VB 100",
+            "EF 07"
         ]
     },
     "AR202.01": {
@@ -3572,8 +3550,8 @@
         "instructor": "ASUMAN EMİN",
         "name": "ARABIC II",
         "rooms": [
-            "NB 118",
-            "NB 118",
+            "EF 04",
+            "EF 04",
             "TB 480"
         ]
     },
@@ -3594,9 +3572,9 @@
         "instructor": "ASUMAN EMİN",
         "name": "ARABIC IV",
         "rooms": [
-            "EF 03",
-            "EF 03",
-            "JF 331"
+            "VB 100",
+            "VB 100",
+            "EF 07"
         ]
     },
     "ARM102.01": {
@@ -5498,7 +5476,7 @@
             7,
             8
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "ERŞEN KAVAK",
         "name": "SP.TP.INT.TO PROGRM.WITH PYTHON FOR BIO.",
         "rooms": [
             "KP 314",
@@ -9317,85 +9295,113 @@
     "CEM501.01": {
         "code": "CEM 501.01",
         "credits": 1,
-        "days": [],
+        "days": [
+            "St"
+        ],
         "ects": 3.0,
-        "hours": [],
+        "hours": [
+            6
+        ],
         "instructor": "EYÜPHAN KOÇ",
         "name": "COMMUNICATION SKILLS FOR ENGINEERS",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM509.01": {
         "code": "CEM 509.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "St"
+        ],
         "ects": 8.0,
-        "hours": [],
+        "hours": [
+            2
+        ],
         "instructor": "SEMRA ÇOMU",
         "name": "FINANCIAL MANAGEMENT IN CONSTRUCTION",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM511.01": {
         "code": "CEM 511.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "Th"
+        ],
         "ects": 8.0,
-        "hours": [],
+        "hours": [
+            11
+        ],
         "instructor": "BELİZ ÖZORHON",
         "name": "STRATEGIC MAN.OF CONSTRUCTION COMPANIES",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM512.01": {
         "code": "CEM 512.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "F"
+        ],
         "ects": 7.0,
-        "hours": [],
+        "hours": [
+            11
+        ],
         "instructor": "BELİZ ÖZORHON",
         "name": "MANAGING INNOVATION PROCESS IN CONSTRUC.",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM515.01": {
         "code": "CEM 515.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "W"
+        ],
         "ects": 7.0,
-        "hours": [],
+        "hours": [
+            11
+        ],
         "instructor": "MEHMET EMRE ÇAMLIBEL",
         "name": "GREEN BUILDINGS",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM516.01": {
         "code": "CEM 516.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "T"
+        ],
         "ects": 7.0,
-        "hours": [],
+        "hours": [
+            11
+        ],
         "instructor": "LEVENT SÜMER",
         "name": "CONSTRUCTION COST ESTIMATION",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM520.01": {
         "code": "CEM 520.01",
         "credits": 2,
-        "days": [],
+        "days": [
+            "St"
+        ],
         "ects": 6.0,
-        "hours": [],
+        "hours": [
+            7
+        ],
         "instructor": "EYÜPHAN KOÇ",
         "name": "CASE STUDIES IN CIVIL ENGINEERING",
         "rooms": [
-            ""
+            "M 3120"
         ]
     },
     "CEM581.01": {
@@ -9889,7 +9895,9 @@
         "rooms": [
             "ET B507",
             "ET B507",
-            "ET B507"
+            "ET B507",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET462.04": {
@@ -9982,7 +9990,7 @@
             4
         ],
         "instructor": "MUTLU ŞEN AKBULUT",
-        "name": "SP. STUD. DEVELOPING AI COMPETENCIES&FOR TEACHING",
+        "name": "SP. STUD. DEVELOPING AI COMPETENCIES FOR TEACHING",
         "rooms": [
             "EF 406",
             "EF 406",
@@ -10008,7 +10016,10 @@
         "instructor": "DUYGU UMUTLU",
         "name": "DISTANCE EDUCATION AND INTERNET",
         "rooms": [
-            ""
+            "ET B511",
+            "ET B511",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET542.01": {
@@ -10030,7 +10041,10 @@
         "instructor": "MUTLU ŞEN AKBULUT",
         "name": "DESIGN&IMPLEMENTATION OF TBLE",
         "rooms": [
-            ""
+            "ET B511",
+            "ET B511",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET579.01": {
@@ -10046,7 +10060,7 @@
         "instructor": "GÜNİZİ KARTAL",
         "name": "GRADUATE SEMINAR",
         "rooms": [
-            ""
+            "ET B511"
         ]
     },
     "CET582.01": {
@@ -10066,7 +10080,9 @@
         "instructor": "DİLER ÖNER",
         "name": "SPECIAL TOPICS IN EDUCATIONAL TECHNOLOGY",
         "rooms": [
-            ""
+            "ET B511",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET582.02": {
@@ -10086,7 +10102,9 @@
         "instructor": "MUTLU ŞEN AKBULUT",
         "name": "SPECIAL TOPICS IN EDUCATIONAL TECHNOLOGY",
         "rooms": [
-            ""
+            "ET B511",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET582.03": {
@@ -10106,7 +10124,9 @@
         "instructor": "GÜNİZİ KARTAL",
         "name": "SPECIAL TOPICS IN EDUCATIONAL TECHNOLOGY",
         "rooms": [
-            ""
+            "ET B511",
+            "ET B511",
+            "ET B511"
         ]
     },
     "CET582.04": {
@@ -10182,7 +10202,7 @@
         "instructor": "DİLER ÖNER",
         "name": "MASTER'S THESIS",
         "rooms": [
-            ""
+            "ET B511"
         ]
     },
     "CET690.02": {
@@ -10206,7 +10226,11 @@
         "instructor": "MUTLU ŞEN AKBULUT",
         "name": "MASTER'S THESIS",
         "rooms": [
-            ""
+            "ET B509",
+            "ET B509",
+            "ET B509",
+            "ET B509",
+            "ET B509"
         ]
     },
     "CET690.03": {
@@ -10226,7 +10250,9 @@
         "instructor": "DUYGU UMUTLU",
         "name": "MASTER'S THESIS",
         "rooms": [
-            ""
+            "ET B507",
+            "ET B507",
+            "ET B507"
         ]
     },
     "CET690.04": {
@@ -10258,7 +10284,7 @@
         "instructor": "YAVUZ AKPINAR",
         "name": "MASTER'S THESIS",
         "rooms": [
-            ""
+            "ET B511"
         ]
     },
     "CET690.06": {
@@ -10278,7 +10304,9 @@
         "instructor": "OĞUZ AK",
         "name": "MASTER'S THESIS",
         "rooms": [
-            ""
+            "ET B507",
+            "ET B507",
+            "ET B507"
         ]
     },
     "CHE202.01": {
@@ -10735,6 +10763,28 @@
             "KB 401",
             "KB 432",
             "KB 432"
+        ]
+    },
+    "CHE481.01": {
+        "code": "CHE 481.01",
+        "credits": 3,
+        "days": [
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "ects": 5.0,
+        "hours": [
+            1,
+            2,
+            3
+        ],
+        "instructor": "BETÜL URALCAN",
+        "name": "SP.TP.STATISTICAL MECHANICS&CONDENSED MATTER:THEORY&APP.",
+        "rooms": [
+            "KB 428",
+            "KB 401",
+            "KB 401"
         ]
     },
     "CHE482.01": {
@@ -14322,19 +14372,19 @@
         "code": "CMPE352.01",
         "credits": 2,
         "days": [
-            "T",
-            "T"
+            "Th",
+            "Th"
         ],
         "ects": 4.0,
         "hours": [
-            3,
-            4
+            5,
+            6
         ],
         "instructor": "SUZAN ÜSKÜDARLI",
         "name": "FUNDAMENTALS OF SOFTWARE ENGINEERING",
         "rooms": [
-            "NH 001",
-            "NH 001"
+            "BM A2",
+            "BM A2"
         ]
     },
     "CMPE352.01 P.S. 1": {
@@ -14935,9 +14985,9 @@
         "code": "CMPE58A.01",
         "credits": 3,
         "days": [
-            "W",
-            "W",
-            "W"
+            "T",
+            "T",
+            "T"
         ],
         "ects": 10.0,
         "hours": [
@@ -14948,9 +14998,9 @@
         "instructor": "SUZAN ÜSKÜDARLI",
         "name": "SP.TP.IN CMPE:COOPERAT.STUD.IN THE CONTE",
         "rooms": [
-            "BM A6",
-            "BM A6",
-            "BM A6"
+            "NH 104",
+            "NH 104",
+            "NH 104"
         ]
     },
     "CMPE58E.01": {
@@ -18305,6 +18355,28 @@
             "NB Z11"
         ]
     },
+    "EC48E.01": {
+        "code": "EC  48E.01",
+        "credits": 3,
+        "days": [
+            "T",
+            "T",
+            "F"
+        ],
+        "ects": 6.0,
+        "hours": [
+            5,
+            6,
+            6
+        ],
+        "instructor": "BURAK SALTOĞLU",
+        "name": "SP.TP.IN FINAN.ECON.&MACHINE LEARN.",
+        "rooms": [
+            "M 3120",
+            "M 3120",
+            "NB Z11"
+        ]
+    },
     "EC48H.01": {
         "code": "EC  48H.01",
         "credits": 3,
@@ -18896,28 +18968,6 @@
             "EF 116"
         ]
     },
-    "ED203.01": {
-        "code": "ED  203.01",
-        "credits": 3,
-        "days": [
-            "W",
-            "W",
-            "W"
-        ],
-        "ects": 5.0,
-        "hours": [
-            2,
-            3,
-            4
-        ],
-        "instructor": "STAFF STAFF",
-        "name": "HISTORY OF TURKISH EDUCATION",
-        "rooms": [
-            "EF 101",
-            "EF 101",
-            "EF 101"
-        ]
-    },
     "ED206.01": {
         "code": "ED  206.01",
         "credits": 3,
@@ -19338,28 +19388,6 @@
             "EF 202"
         ]
     },
-    "ED453.01": {
-        "code": "ED  453.01",
-        "credits": 3,
-        "days": [
-            "W",
-            "W",
-            "W"
-        ],
-        "ects": 5.0,
-        "hours": [
-            6,
-            7,
-            8
-        ],
-        "instructor": "STAFF STAFF",
-        "name": "EDUCATIONAL POLICY AND RELATED ISSUES",
-        "rooms": [
-            "EF 104",
-            "EF 104",
-            "EF 104"
-        ]
-    },
     "ED459.01": {
         "code": "ED  459.01",
         "credits": 3,
@@ -19457,35 +19485,13 @@
             5,
             6
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "ABDULLAH AZZAM TÜZGEN",
         "name": "SCHOOL COUNSELING PRACTICUM II",
         "rooms": [
             "EF 103",
             "EF 103",
             "EF 103",
             "EF 103"
-        ]
-    },
-    "ED48B.01": {
-        "code": "ED  48B.01",
-        "credits": 3,
-        "days": [
-            "W",
-            "W",
-            "W"
-        ],
-        "ects": 6.0,
-        "hours": [
-            7,
-            8,
-            9
-        ],
-        "instructor": "BENGÜ BÖRKAN",
-        "name": "SP.TP.IN EDU.: R PROGRAMING FOR DATA ANALYSIS",
-        "rooms": [
-            "EF 203",
-            "EF 203",
-            "EF 203"
         ]
     },
     "ED48D.01": {
@@ -19620,28 +19626,6 @@
             "EF 103"
         ]
     },
-    "ED501.01": {
-        "code": "ED  501.01",
-        "credits": 4,
-        "days": [
-            "W",
-            "W",
-            "Th",
-            "Th"
-        ],
-        "ects": 8.0,
-        "hours": [
-            2,
-            3,
-            2,
-            3
-        ],
-        "instructor": "BENGÜ BÖRKAN",
-        "name": "STATISTICS",
-        "rooms": [
-            ""
-        ]
-    },
     "ED505.01": {
         "code": "ED  505.01",
         "credits": 4,
@@ -19678,7 +19662,7 @@
             2,
             3
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "NADİRE GÜLÇİN YILDIZ",
         "name": "THEORIES & TECHNIQUES OF COUNSELING II",
         "rooms": [
             ""
@@ -19804,26 +19788,6 @@
             ""
         ]
     },
-    "ED581.01": {
-        "code": "ED  581.01",
-        "credits": 3,
-        "days": [
-            "M",
-            "M",
-            "T"
-        ],
-        "ects": 7.0,
-        "hours": [
-            4,
-            5,
-            4
-        ],
-        "instructor": "BENGÜ BÖRKAN",
-        "name": "SP.TP.INDIVIDUAL STUDY I:PROGRAM EVALUATION",
-        "rooms": [
-            ""
-        ]
-    },
     "ED690.02": {
         "code": "ED  690.02",
         "credits": 0,
@@ -19879,30 +19843,6 @@
         "ects": 60.0,
         "hours": [],
         "instructor": "NİHAL YENİAD MALKAMAK",
-        "name": "MASTER THESIS",
-        "rooms": [
-            ""
-        ]
-    },
-    "ED690.16": {
-        "code": "ED  690.16",
-        "credits": 0,
-        "days": [],
-        "ects": 60.0,
-        "hours": [],
-        "instructor": "STAFF STAFF",
-        "name": "MASTER THESIS",
-        "rooms": [
-            ""
-        ]
-    },
-    "ED690.17": {
-        "code": "ED  690.17",
-        "credits": 0,
-        "days": [],
-        "ects": 60.0,
-        "hours": [],
-        "instructor": "STAFF STAFF",
         "name": "MASTER THESIS",
         "rooms": [
             ""
@@ -20222,8 +20162,8 @@
         ],
         "ects": 4.0,
         "hours": [
-            7,
-            8
+            5,
+            6
         ],
         "instructor": "İSMAİL FAİK BAŞKAYA",
         "name": "DIGITAL SYSTEM DESIGN",
@@ -20576,7 +20516,7 @@
         ],
         "ects": 6.0,
         "hours": [
-            6,
+            4,
             5,
             6
         ],
@@ -20646,8 +20586,8 @@
         ],
         "ects": 6.0,
         "hours": [
-            4,
             5,
+            6,
             4
         ],
         "instructor": "KEMAL CILIZ",
@@ -21196,7 +21136,7 @@
         "hours": [
             5,
             6,
-            7
+            6
         ],
         "instructor": "GÜNHAN DÜNDAR",
         "name": "SYSTEM DESIGN WITH MICROELECTRONIC DEVICES",
@@ -21217,8 +21157,8 @@
         "ects": 8.0,
         "hours": [
             3,
-            5,
-            6
+            7,
+            8
         ],
         "instructor": "İSMAİL FAİK BAŞKAYA",
         "name": "ADVANCED VLSI DESIGN",
@@ -22226,7 +22166,7 @@
             "T"
         ],
         "hours": [
-            6
+            5
         ],
         "instructor": "BURCU KAYIŞÇI AKKOYUN",
         "name": "P.S.",
@@ -22532,7 +22472,7 @@
         "days": [],
         "ects": 6.0,
         "hours": [],
-        "instructor": "ASLI TEKİNAY",
+        "instructor": "AYLİN ALKAÇ",
         "name": "SPC.STUD.STUDIES IN MOD.ENGL.DRAMA",
         "rooms": [
             ""
@@ -22669,18 +22609,6 @@
         "ects": 120.0,
         "hours": [],
         "instructor": "ÖZLEM GÖREY",
-        "name": "DOCTORAL DISSERTATION",
-        "rooms": [
-            ""
-        ]
-    },
-    "EL790.05": {
-        "code": "EL  790.05",
-        "credits": 0,
-        "days": [],
-        "ects": 120.0,
-        "hours": [],
-        "instructor": "BURCU KAYIŞÇI AKKOYUN",
         "name": "DOCTORAL DISSERTATION",
         "rooms": [
             ""
@@ -24923,13 +24851,23 @@
     "FA48B.01": {
         "code": "FA  48B.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "T",
+            "T",
+            "T"
+        ],
         "ects": 5.0,
-        "hours": [],
+        "hours": [
+            6,
+            7,
+            8
+        ],
         "instructor": "ÖZDE ÇELİKTEMEL THOMEN",
         "name": "SP.TP.CINEMA IN THE LATE OTTOMAN EMPIRE&MODERN TURKEY",
         "rooms": [
-            ""
+            "EF 102",
+            "EF 102",
+            "EF 102"
         ]
     },
     "FA48C.01": {
@@ -25004,13 +24942,23 @@
     "FA48M.01": {
         "code": "FA  48M.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "M",
+            "M",
+            "M"
+        ],
         "ects": 5.0,
-        "hours": [],
+        "hours": [
+            6,
+            7,
+            8
+        ],
         "instructor": "DİDEM PEKÜN",
         "name": "SP.TP.EXPERIMENTAL CINEMA",
         "rooms": [
-            ""
+            "JF 334",
+            "JF 334",
+            "JF 334"
         ]
     },
     "FA490.01": {
@@ -25042,9 +24990,9 @@
         "instructor": "RANA İREN",
         "name": "SP.TP.MUSIC AND THE VISUAL ARTS",
         "rooms": [
-            "İB 211",
-            "İB 211",
-            "İB 211"
+            "NH 203",
+            "NH 203",
+            "NH 203"
         ]
     },
     "FA49F.01": {
@@ -25147,18 +25095,6 @@
         ],
         "instructor": "HULUSİ BAHÇIVAN",
         "name": "DERIVATIVE SECURITIES & MARKETS",
-        "rooms": [
-            ""
-        ]
-    },
-    "FE523.01": {
-        "code": "FE  523.01",
-        "credits": 3,
-        "days": [],
-        "ects": 7.0,
-        "hours": [],
-        "instructor": "HULUSİ BAHÇIVAN",
-        "name": "INVESTMENT ANALYSIS & PORTFOLIO THEORY",
         "rooms": [
             ""
         ]
@@ -25269,7 +25205,7 @@
         "days": [],
         "ects": 4.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "MEHMET YASİN ULUKUŞ",
         "name": "DIRECTED STUDIES",
         "rooms": [
             ""
@@ -26330,7 +26266,8 @@
         "instructor": "SUMRU AKCAN",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.02": {
@@ -26348,7 +26285,8 @@
         "instructor": "GÜLCAN ERÇETİN",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.03": {
@@ -26366,7 +26304,8 @@
         "instructor": "AYŞE GÜREL",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.04": {
@@ -26384,7 +26323,8 @@
         "instructor": "BELMA HAZNEDAR",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.05": {
@@ -26402,7 +26342,8 @@
         "instructor": "LEYLA MESUDE MARTI",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.06": {
@@ -26420,7 +26361,8 @@
         "instructor": "SİBEL TATAR",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.07": {
@@ -26438,7 +26380,8 @@
         "instructor": "SENEM YILDIZ ERSOY",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.08": {
@@ -26456,7 +26399,8 @@
         "instructor": "TUBA ARABACI ATLAMAZ",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.09": {
@@ -26474,7 +26418,8 @@
         "instructor": "IŞIL ERDUYAN",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.10": {
@@ -26492,7 +26437,8 @@
         "instructor": "ŞEBNEM YALÇIN",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED416.12": {
@@ -26510,7 +26456,8 @@
         "instructor": "TUBA ARABACI ATLAMAZ",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
-            ""
+            "EF 106",
+            "EF 106"
         ]
     },
     "FLED505.01": {
@@ -27679,7 +27626,7 @@
             2,
             3
         ],
-        "instructor": "MAHYAT SHAFAPOURTEHRANY",
+        "instructor": "MAYA TEHRANY",
         "name": "SEL.TP. GEOSPATIAL TECHNOLOGIES&APPLICATIONS",
         "rooms": [
             ""
@@ -27699,7 +27646,7 @@
             2,
             3
         ],
-        "instructor": "MAHYAT SHAFAPOURTEHRANY",
+        "instructor": "MAYA TEHRANY",
         "name": "SP.TP.REMOTE SENSING&PHOTOGRAMMETRY",
         "rooms": [
             ""
@@ -27755,7 +27702,7 @@
             7,
             8
         ],
-        "instructor": "MAHYAT SHAFAPOURTEHRANY",
+        "instructor": "MAYA TEHRANY",
         "name": "GEODETIC DATA BASE",
         "rooms": [
             ""
@@ -27940,7 +27887,7 @@
             4
         ],
         "instructor": "FATİH BULUT",
-        "name": "SPECIAL TOPICS IN GEODESY I",
+        "name": "SP.TP.NUMERICAL MODELING OF EARTHQUAKES",
         "rooms": [
             ""
         ]
@@ -27959,8 +27906,8 @@
             6,
             7
         ],
-        "instructor": "MAHYAT SHAFAPOURTEHRANY",
-        "name": "SPECIAL TOPICS IN GEODESY II",
+        "instructor": "MAYA TEHRANY",
+        "name": "SP.TP.RADAR IMAGE PROCESSING",
         "rooms": [
             ""
         ]
@@ -28000,7 +27947,7 @@
             8
         ],
         "instructor": "TÜLAY KAYA EKEN",
-        "name": "SP.TP.ARTIFICIAL INTELLIGENCE IN EARTH SCIENCE",
+        "name": "SP.TP.INVERSE THEORY",
         "rooms": [
             ""
         ]
@@ -28313,12 +28260,12 @@
         "code": "GER 201.02",
         "credits": 3,
         "days": [
+            "M",
+            "M",
             "T",
             "T",
             "W",
-            "W",
-            "Th",
-            "Th"
+            "W"
         ],
         "ects": 7.0,
         "hours": [
@@ -28332,12 +28279,12 @@
         "instructor": "UĞUR KOÇ",
         "name": "PRE-INTERMEDIATE GERMAN I",
         "rooms": [
+            "KP 02",
+            "KP 02",
             "EF 102",
             "EF 102",
             "KP 05",
-            "KP 05",
-            "EF 05",
-            "EF 05"
+            "KP 05"
         ]
     },
     "GER202.01": {
@@ -28468,12 +28415,12 @@
         "code": "GER 302.01",
         "credits": 3,
         "days": [
+            "M",
+            "M",
             "T",
             "T",
             "W",
-            "W",
-            "Th",
-            "Th"
+            "W"
         ],
         "ects": 7.0,
         "hours": [
@@ -28487,12 +28434,12 @@
         "instructor": "UĞUR KOÇ",
         "name": "INTERMEDIATE GERMAN II",
         "rooms": [
+            "KP 02",
+            "KP 02",
             "EF 102",
             "EF 102",
             "KP 05",
-            "KP 05",
-            "EF 05",
-            "EF 05"
+            "KP 05"
         ]
     },
     "GER412.01": {
@@ -28734,18 +28681,6 @@
             "TB 415",
             "TB 490",
             "TB 240"
-        ]
-    },
-    "HIST100.01": {
-        "code": "HIST100.01",
-        "credits": 2,
-        "days": [],
-        "ects": 4.0,
-        "hours": [],
-        "instructor": "STAFF STAFF",
-        "name": "INTRODUCTION TO HISTORY",
-        "rooms": [
-            ""
         ]
     },
     "HIST102.01": {
@@ -29231,18 +29166,18 @@
         ],
         "ects": 5.0,
         "hours": [
-            1,
             2,
-            1,
-            2
+            3,
+            2,
+            3
         ],
         "instructor": "PAOLO MARANZANA",
         "name": "RESEARCH METHODS IN HISTORY II",
         "rooms": [
             "JF 332",
             "JF 332",
-            "JF 333",
-            "JF 333"
+            "NH 304",
+            "NH 304"
         ]
     },
     "HIST210.02": {
@@ -29356,6 +29291,28 @@
             "NH 001",
             "NH 001",
             "M 1171"
+        ]
+    },
+    "HIST310.01": {
+        "code": "HIST310.01",
+        "credits": 3,
+        "days": [
+            "M",
+            "M",
+            "W"
+        ],
+        "ects": 6.0,
+        "hours": [
+            2,
+            3,
+            1
+        ],
+        "instructor": "N.CİHAN YURDAÜN",
+        "name": "HIST.OF THE AMERICAS,1750 TO THE PRESENT",
+        "rooms": [
+            "NH 304",
+            "NH 304",
+            "M 2152"
         ]
     },
     "HIST322.01": {
@@ -29870,6 +29827,28 @@
         "name": "THESIS II",
         "rooms": [
             ""
+        ]
+    },
+    "HIST49E.01": {
+        "code": "HIST49E.01",
+        "credits": 3,
+        "days": [
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "ects": 5.0,
+        "hours": [
+            2,
+            3,
+            4
+        ],
+        "instructor": "AHMET ERSOY",
+        "name": "SP.TP.TECHNOLOGY&MEDIA IN THE LATE OTTOMAN EMPIRE&EGYPT",
+        "rooms": [
+            "JF 333",
+            "JF 333",
+            "JF 333"
         ]
     },
     "HIST49G.01": {
@@ -32615,7 +32594,7 @@
             8,
             9
         ],
-        "instructor": "DENİZ CEBE",
+        "instructor": "NEDİME MERCANGÖZ",
         "name": "INTRO.TO SIMULTANEOUS INTERPRETING",
         "rooms": [
             ""
@@ -33666,68 +33645,6 @@
             ""
         ]
     },
-    "ITA101.01": {
-        "code": "ITA 101.01",
-        "credits": 3,
-        "days": [
-            "M",
-            "M",
-            "W",
-            "W",
-            "F",
-            "F"
-        ],
-        "ects": 7.0,
-        "hours": [
-            1,
-            2,
-            1,
-            2,
-            1,
-            2
-        ],
-        "instructor": "STAFF STAFF",
-        "name": "ELEMENTARY ITALIAN I",
-        "rooms": [
-            "KP 03",
-            "KP 03",
-            "KP 08",
-            "KP 08",
-            "JF 334",
-            "JF 334"
-        ]
-    },
-    "ITA101.02": {
-        "code": "ITA 101.02",
-        "credits": 3,
-        "days": [
-            "M",
-            "M",
-            "W",
-            "W",
-            "F",
-            "F"
-        ],
-        "ects": 7.0,
-        "hours": [
-            3,
-            4,
-            3,
-            4,
-            3,
-            4
-        ],
-        "instructor": "STAFF STAFF",
-        "name": "ELEMENTARY ITALIAN I",
-        "rooms": [
-            "KP 03",
-            "KP 03",
-            "KP 08",
-            "KP 08",
-            "JF 334",
-            "JF 334"
-        ]
-    },
     "ITA102.01": {
         "code": "ITA 102.01",
         "credits": 3,
@@ -34015,9 +33932,7 @@
         "instructor": "FİLİZ YILMAZ",
         "name": "JAPANESE-TURKISH TRANSLATION II",
         "rooms": [
-            "KGYM",
-            "KGYM",
-            "KGYM"
+            ""
         ]
     },
     "KR102.01": {
@@ -37536,6 +37451,30 @@
             ""
         ]
     },
+    "MATH490.04": {
+        "code": "MATH490.04",
+        "credits": 3,
+        "days": [],
+        "ects": 6.0,
+        "hours": [],
+        "instructor": "TALİN BUDAK",
+        "name": "PROJECT",
+        "rooms": [
+            ""
+        ]
+    },
+    "MATH490.05": {
+        "code": "MATH490.05",
+        "credits": 3,
+        "days": [],
+        "ects": 6.0,
+        "hours": [],
+        "instructor": "YASEMİN KARA",
+        "name": "PROJECT",
+        "rooms": [
+            ""
+        ]
+    },
     "MATH499.01": {
         "code": "MATH499.01",
         "credits": 3,
@@ -38402,28 +38341,6 @@
             "VYKM2",
             "VYKM2",
             "M 2200"
-        ]
-    },
-    "ME482.01": {
-        "code": "ME  482.01",
-        "credits": 3,
-        "days": [
-            "M",
-            "M",
-            "W"
-        ],
-        "ects": 5.0,
-        "hours": [
-            5,
-            6,
-            7
-        ],
-        "instructor": "ŞEBNEM ÖZÜPEK",
-        "name": "SP.TOP.IN ME.APPLICATIONS OF THE FINITE ELEMENT METHOD",
-        "rooms": [
-            "VYKM3",
-            "VYKM3",
-            "VYKM3"
         ]
     },
     "ME492.01": {
@@ -40762,9 +40679,9 @@
         "instructor": "DEĞER AYATA",
         "name": "SP.TP.GENERATIVE AI&DL",
         "rooms": [
-            "HA 303",
-            "HA 303",
-            "HA 303"
+            "HB 105",
+            "HB 105",
+            "HB 105"
         ]
     },
     "MIS48C.01": {
@@ -44238,25 +44155,45 @@
     "PF304.01": {
         "code": "PF  304.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "W",
+            "F",
+            "F"
+        ],
         "ects": 4.0,
-        "hours": [],
+        "hours": [
+            8,
+            1,
+            2
+        ],
         "instructor": "HATİCE ERGİN KOCATÜRK",
         "name": "SPECIAL INSTRUCTIONAL METHODS",
         "rooms": [
-            ""
+            "EF 204",
+            "EF 102",
+            "EF 102"
         ]
     },
     "PF400.01": {
         "code": "PF  400.01",
         "credits": 4,
-        "days": [],
+        "days": [
+            "W",
+            "F",
+            "F"
+        ],
         "ects": 10.0,
-        "hours": [],
+        "hours": [
+            7,
+            3,
+            4
+        ],
         "instructor": "HATİCE ERGİN KOCATÜRK",
         "name": "TEACHING PRACTICUM",
         "rooms": [
-            ""
+            "EF 204",
+            "EF 102",
+            "EF 102"
         ]
     },
     "PHIL101.01": {
@@ -44906,28 +44843,8 @@
             2,
             3
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "NEDİM NAİM NOMER",
         "name": "SP.TP.PHILOSOPHY OF LAW",
-        "rooms": [
-            ""
-        ]
-    },
-    "PHIL58F.01": {
-        "code": "PHIL58F.01",
-        "credits": 4,
-        "days": [
-            "T",
-            "T",
-            "Th"
-        ],
-        "ects": 10.0,
-        "hours": [
-            5,
-            6,
-            5
-        ],
-        "instructor": "STEPHEN VOSS",
-        "name": "SP.TP.THE SELF&THE SOUL",
         "rooms": [
             ""
         ]
@@ -45078,7 +44995,7 @@
         "days": [],
         "ects": 10.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "NEDİM NAİM NOMER",
         "name": "DIRECTED STUDY",
         "rooms": [
             ""
@@ -45222,7 +45139,7 @@
         "days": [],
         "ects": 60.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "NEDİM NAİM NOMER",
         "name": "MASTER THESIS",
         "rooms": [
             ""
@@ -45366,7 +45283,7 @@
         "days": [],
         "ects": 120.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "NEDİM NAİM NOMER",
         "name": "DOCTORAL DISSERTATION",
         "rooms": [
             ""
@@ -45794,7 +45711,7 @@
         "rooms": [
             "NH 404",
             "NH 404",
-            "BM A2"
+            "EF 204"
         ]
     },
     "PHYS225.01": {
@@ -46311,7 +46228,7 @@
         "days": [],
         "ects": 6.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "MEHMET ALPER ŞAHİNER",
         "name": "SEL.TP.SYNCHROTRON RADIATION&ITS(ONLINE)",
         "rooms": [
             ""
@@ -47501,6 +47418,28 @@
             "İB 301",
             "İB 312",
             "İB 312"
+        ]
+    },
+    "POLS479.01": {
+        "code": "POLS479.01",
+        "credits": 3,
+        "days": [
+            "M",
+            "M",
+            "Th"
+        ],
+        "ects": 6.0,
+        "hours": [
+            3,
+            4,
+            4
+        ],
+        "instructor": "JAAN SULAIMAN İSLAM",
+        "name": "AMERICAN FOREIGN POLICY",
+        "rooms": [
+            "NH 201",
+            "NH 201",
+            "NH 202"
         ]
     },
     "POLS482.01": {
@@ -48919,7 +48858,8 @@
         ],
         "requiredForDept": [
             "EC",
-            "SOC"
+            "SOC",
+            "LAW"
         ]
     },
     "PSY101.02": {
@@ -49321,8 +49261,8 @@
         "instructor": "DENİZ TAHİROĞLU",
         "name": "READINGS&RESEARCH IN HUMAN DEVELOPMENT",
         "rooms": [
-            "VB 100",
-            "VB 100",
+            "İB 103",
+            "İB 103",
             "NB Z13",
             "NB Z13"
         ]
@@ -50333,8 +50273,8 @@
         "name": "MEASUREMENT AND ASSESSMENT IN MATHEMATICS AND SCIENCE EDUCATION",
         "rooms": [
             "EF 104",
-            "EF 102",
-            "EF 102"
+            "EF 104",
+            "EF 104"
         ]
     },
     "SCED370.03": {
@@ -53206,7 +53146,7 @@
         "rooms": [
             "NH 404",
             "NH 404",
-            "BM A2"
+            "EF 204"
         ]
     },
     "SWE501.01": {
@@ -53863,8 +53803,8 @@
             "JF 331"
         ]
     },
-    "TID101.02": {
-        "code": "TID 101.02",
+    "TID102.01": {
+        "code": "TID 102.01",
         "credits": 3,
         "days": [
             "W",
@@ -53878,7 +53818,7 @@
             9
         ],
         "instructor": "FERİDE KORKMAZ",
-        "name": "ELEMENTARY TURKISH SIGN LANGUAGE I",
+        "name": "ELEMENTARY TURKISH SIGN LANGUAGE II",
         "rooms": [
             "JF 331",
             "JF 331",
@@ -55150,8 +55090,8 @@
         "name": "TURKISH WRITING TECHNIQUES",
         "rooms": [
             "NB Z13",
-            "İB 103",
-            "İB 103"
+            "İB 211",
+            "İB 211"
         ]
     },
     "TKL205.01": {
@@ -56082,7 +56022,7 @@
         "instructor": "SEMA ÜSTÜN KÜLÜNK",
         "name": "RESEARCH PAPER WRITING IN TRANS.STUDIES",
         "rooms": [
-            "JF 332",
+            "JF 101",
             "JF 102",
             "JF 102"
         ]
@@ -56289,14 +56229,14 @@
         "code": "TR  316.01",
         "credits": 3,
         "days": [
+            "M",
             "W",
-            "W",
-            "Th"
+            "W"
         ],
         "ects": 5.0,
         "hours": [
-            6,
-            7,
+            5,
+            5,
             6
         ],
         "instructor": "ŞULE DEMİRKOL ERTÜRK",
@@ -56304,7 +56244,7 @@
         "rooms": [
             "VB 201",
             "VB 201",
-            "M 1169"
+            "VB 201"
         ]
     },
     "TR316.02": {
@@ -56662,26 +56602,6 @@
             "JF 507",
             "JF 507",
             "JF 507"
-        ]
-    },
-    "TR48R.01": {
-        "code": "TR  48R.01",
-        "credits": 3,
-        "days": [
-            "Th",
-            "Th",
-            "Th"
-        ],
-        "ects": 5.0,
-        "hours": [
-            8,
-            9,
-            10
-        ],
-        "instructor": "ASLI TAKANAY",
-        "name": "SP.TP.AUDIOVISUAL TRANSLATION",
-        "rooms": [
-            ""
         ]
     },
     "TR498.01": {
@@ -57403,7 +57323,7 @@
             7
         ],
         "instructor": "CÜNEYT ARGUN GENÇ",
-        "name": "SP.TP.ANALYTICAL THINKING&PROBABLISTIC STRATEGIES",
+        "name": "SP.TP.ANALYTICAL THINKING & PROBABILISTIC STRATEGIES",
         "rooms": [
             "HA 303",
             "HA 302",
