@@ -82,9 +82,9 @@
         "instructor": "STAFF STAFF",
         "name": "BUSINESS COMMUNICATIONS (K-Z)",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "İB 100",
+            "İB 100",
+            "İB 100"
         ]
     },
     "AD211.01": {
@@ -148,9 +148,9 @@
         "instructor": "ALİ COŞKUN",
         "name": "MANAGERIAL ACCOUNTING (K-Z)",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "M 2170",
+            "M 2170",
+            "M 2170"
         ]
     },
     "AD220.01": {
@@ -324,9 +324,9 @@
         "instructor": "ULAŞ AKKÜÇÜK",
         "name": "MANAGERIAL STATISTICS II (K-Z)",
         "rooms": [
-            "İB 204",
-            "İB 204",
-            "İB 204"
+            "İB 102",
+            "İB 102",
+            "İB 102"
         ]
     },
     "AD302.01": {
@@ -346,9 +346,9 @@
         "instructor": "ALPEREN MANİSALIGİL",
         "name": "RESEARCH METHODS (K-Z)",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "İB 102",
+            "İB 102",
+            "İB 102"
         ]
     },
     "AD311.01": {
@@ -412,9 +412,9 @@
         "instructor": "METİN ERCAN",
         "name": "MONEY & BANKING (A-J)",
         "rooms": [
-            "İB 201",
-            "İB 201",
-            "İB 201"
+            "İB 102",
+            "İB 102",
+            "İB 102"
         ]
     },
     "AD312.02": {
@@ -566,9 +566,9 @@
         "instructor": "AHMET ESEN",
         "name": "STRATEGIC MANAGEMENT (A-J)",
         "rooms": [
-            "İB 102",
-            "İB 102",
-            "İB 102"
+            "İB 103",
+            "İB 103",
+            "İB 103"
         ]
     },
     "AD409.01": {
@@ -874,9 +874,9 @@
         "instructor": "AHMET RASİM ÇAĞIN",
         "name": "SP.TP.MANAGEMENT AI IN BUSINESS",
         "rooms": [
-            "İB 211",
-            "İB 211",
-            "İB 211"
+            "İB 102",
+            "İB 102",
+            "İB 102"
         ]
     },
     "AD497.01": {
@@ -896,9 +896,9 @@
         "instructor": "GÜVEN ALPAY",
         "name": "BACHELOR OF ARTS DEGREE PROJECT (K-Z)",
         "rooms": [
-            "İB 102",
-            "İB 102",
-            "İB 102"
+            "İB 103",
+            "İB 103",
+            "İB 103"
         ]
     },
     "AD49B.01": {
@@ -962,9 +962,9 @@
         "instructor": "MUHAMMED ALİ ÇINAR",
         "name": "SP.TP.THE FUTURE OF COMMUNICATION:AI,TRENDS&TRANSFORMATION",
         "rooms": [
-            "İB 201",
-            "İB 201",
-            "İB 201"
+            "İB 103",
+            "İB 103",
+            "İB 103"
         ]
     },
     "AD510.01": {
@@ -1293,6 +1293,31 @@
         "name": "HISTORY OF MANAGEMENT THOUGHT",
         "rooms": [
             ""
+        ]
+    },
+    "AD644.01": {
+        "code": "AD  644.01",
+        "credits": 4,
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "ects": 10.0,
+        "hours": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "instructor": "BELGİN ARISAN",
+        "name": "STRATEGY&MANAGEMENT IN MARKETING SCIENCE",
+        "rooms": [
+            "İB 302",
+            "İB 302",
+            "İB 302",
+            "İB 302"
         ]
     },
     "AD675.01": {
@@ -3508,7 +3533,7 @@
         "rooms": [
             "EF 05",
             "EF 05",
-            "TB 480"
+            "TB 130"
         ]
     },
     "AR201.02": {
@@ -3552,7 +3577,7 @@
         "rooms": [
             "EF 04",
             "EF 04",
-            "TB 480"
+            "TB 130"
         ]
     },
     "AR204.01": {
@@ -3616,9 +3641,9 @@
         "instructor": "N.CİHAN YURDAÜN",
         "name": "INTRODUCTION TO AMERICAN STUDIES",
         "rooms": [
-            "İB 211",
-            "VB 100",
-            "VB 100"
+            "KP 03",
+            "NH 404",
+            "NH 404"
         ]
     },
     "AS250.01 P.S. 1": {
@@ -3632,7 +3657,7 @@
         "instructor": "N.CİHAN YURDAÜN",
         "name": "P.S.",
         "rooms": [
-            "İB 211"
+            "KP 03"
         ]
     },
     "AS412.01": {
@@ -4713,7 +4738,7 @@
             3,
             4
         ],
-        "instructor": "N.C.TOLGA EMRE",
+        "instructor": "FATİH YANAR",
         "name": "CELLULAR AND MOLECULAR BIOLOGY II",
         "rooms": [
             "EF 06",
@@ -4779,7 +4804,7 @@
         "hours": [
             5
         ],
-        "instructor": "N.C.TOLGA EMRE",
+        "instructor": "NESRİN ÖZÖREN",
         "name": "CELL BIOLOGY LABORATORY",
         "rooms": [
             "NH 103"
@@ -4801,7 +4826,7 @@
             7,
             8
         ],
-        "instructor": "N.C.TOLGA EMRE",
+        "instructor": "NESRİN ÖZÖREN",
         "name": "LAB",
         "rooms": [
             "KP 214",
@@ -4823,7 +4848,7 @@
         "hours": [
             5
         ],
-        "instructor": "N.C.TOLGA EMRE",
+        "instructor": "NESRİN ÖZÖREN",
         "name": "CELL BIOLOGY LABORATORY",
         "rooms": [
             "NH 103"
@@ -4845,7 +4870,7 @@
             7,
             8
         ],
-        "instructor": "N.C.TOLGA EMRE",
+        "instructor": "NESRİN ÖZÖREN",
         "name": "LAB",
         "rooms": [
             "KP 214",
@@ -4915,12 +4940,12 @@
             8,
             2
         ],
-        "instructor": "İBRAHİM ÇAĞRI KURT",
+        "instructor": "MOHAMMAD HAROON QURESHI",
         "name": "INTRO. TO MODERN BIOLOGY",
         "rooms": [
-            "EF 106",
-            "EF 106",
-            "NH 304"
+            "NH 305",
+            "NH 305",
+            "NH 401"
         ],
         "requiredForDept": [
             "GUID",
@@ -4939,7 +4964,7 @@
         "hours": [
             7,
             8,
-            2
+            1
         ],
         "instructor": "STEVEN FOOTITT",
         "name": "INTRO. TO MODERN BIOLOGY",
@@ -4970,8 +4995,8 @@
         "instructor": "SEYFULLAH ENES KOTİL",
         "name": "GENETICS",
         "rooms": [
-            "KP 01",
-            "KP 01",
+            "NH 102",
+            "NH 102",
             "NH 402"
         ]
     },
@@ -5149,6 +5174,25 @@
         "rooms": [
             "KP 08",
             "KP 08"
+        ]
+    },
+    "BIO308.06": {
+        "code": "BIO 308.06",
+        "credits": 1,
+        "days": [
+            "W",
+            "W"
+        ],
+        "ects": 2.0,
+        "hours": [
+            7,
+            8
+        ],
+        "instructor": "NECLA BİRGÜL İYİSON",
+        "name": "SEMINAR I",
+        "rooms": [
+            "KP 03",
+            "KP 03"
         ]
     },
     "BIO310.01": {
@@ -5652,18 +5696,6 @@
             ""
         ]
     },
-    "BIO58D.01": {
-        "code": "BIO 58D.01",
-        "credits": 3,
-        "days": [],
-        "ects": 7.0,
-        "hours": [],
-        "instructor": "MOHAMMAD HAROON QURESHI",
-        "name": "SP.TP.OMICS",
-        "rooms": [
-            ""
-        ]
-    },
     "BIO602.01": {
         "code": "BIO 602.01",
         "credits": 3,
@@ -5984,6 +6016,26 @@
         ],
         "instructor": "NAZIM TAŞKIN",
         "name": "GRADUATE SEMINAR",
+        "rooms": [
+            ""
+        ]
+    },
+    "BIS580.01": {
+        "code": "BIS 580.01",
+        "credits": 3,
+        "days": [
+            "M",
+            "M",
+            "M"
+        ],
+        "ects": 6.0,
+        "hours": [
+            11,
+            12,
+            13
+        ],
+        "instructor": "MEHMET NAFİZ AYDIN",
+        "name": "SP.TP.INNOVATION SYSTEMS IN ORGANIZATIONS",
         "rooms": [
             ""
         ]
@@ -6896,6 +6948,18 @@
         "name": "GRADUATE SEMINAR",
         "rooms": [
             "BME 19"
+        ]
+    },
+    "BM580.01": {
+        "code": "BM  580.01",
+        "credits": 3,
+        "days": [],
+        "ects": 8.0,
+        "hours": [],
+        "instructor": "MEHMED ÖZKAN",
+        "name": "SP.STUD.: BIOMEDICAL INSTRUMENTATION ON MOBILE DEVICES",
+        "rooms": [
+            ""
         ]
     },
     "BM588.01": {
@@ -7970,9 +8034,9 @@
         ],
         "ects": 5.0,
         "hours": [
-            7,
-            8,
-            9
+            4,
+            5,
+            6
         ],
         "instructor": "İLHAN AYDEMİR",
         "name": "ADVANCED KABARDIAN II",
@@ -8037,8 +8101,8 @@
         "rooms": [
             "VYKM1",
             "VYKM1",
-            "M 1100",
-            "M 1100"
+            "M 2181",
+            "M 2181"
         ]
     },
     "CE214.01": {
@@ -8507,7 +8571,7 @@
         "rooms": [
             "M 2181",
             "M 2181",
-            "VYKM4"
+            "VYKM3"
         ]
     },
     "CE48L.01": {
@@ -8549,9 +8613,9 @@
         "instructor": "TURAN ÖZTURAN",
         "name": "SP.TP.ADVANCED CONCRETE",
         "rooms": [
-            "NH 404",
-            "NH 404",
-            "NH 404"
+            "VYKM4",
+            "VYKM4",
+            "VYKM4"
         ]
     },
     "CE492.01": {
@@ -8721,7 +8785,7 @@
         "instructor": "HİLMİ LUŞ",
         "name": "GRADUATE SEMINAR",
         "rooms": [
-            "M 2181"
+            "M 1169"
         ]
     },
     "CE58K.01": {
@@ -8783,7 +8847,7 @@
             4
         ],
         "instructor": "İREM ZEYNEP YILDIRIM",
-        "name": "SP.TP.GEOTECHNICAL PRACTISE&DESIGN STUDIO",
+        "name": "SP.TP.GEOTECHNICAL PRACTICE & DESIGN STUDIO",
         "rooms": [
             "M 2231",
             "M 2231",
@@ -9056,6 +9120,24 @@
         "hours": [],
         "instructor": "İREM ZEYNEP YILDIRIM",
         "name": "M.S.THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "CE699.01": {
+        "code": "CE  699.01",
+        "credits": 4,
+        "days": [
+            "T",
+            "T"
+        ],
+        "ects": 10.0,
+        "hours": [
+            5,
+            6
+        ],
+        "instructor": "ILGIN GÖKAŞAR",
+        "name": "GUIDED RESEARCH",
         "rooms": [
             ""
         ]
@@ -11468,7 +11550,7 @@
         "instructor": "ALİ ERSİN ACAR",
         "name": "GENERAL CHEMISTRY II",
         "rooms": [
-            "EF 206",
+            "KP 01",
             "KP 01",
             "KP 01"
         ],
@@ -11492,7 +11574,7 @@
         "instructor": "ALİ ERSİN ACAR",
         "name": "P.S.",
         "rooms": [
-            "EF 206"
+            "KP 01"
         ],
         "requiredForDept": [
             "BIO",
@@ -12144,9 +12226,9 @@
         "instructor": "BAŞAK KAYITMAZER",
         "name": "INSTRUMENTAL ANALYSIS I",
         "rooms": [
-            "EF 07",
-            "EF 07",
-            "KB 125"
+            "EF 06",
+            "EF 06",
+            "NH 304"
         ]
     },
     "CHEM224.01 P.S. 1": {
@@ -12160,7 +12242,7 @@
         "instructor": "BAŞAK KAYITMAZER",
         "name": "P.S.",
         "rooms": [
-            "KB 125"
+            "NH 304"
         ]
     },
     "CHEM226.01": {
@@ -12316,9 +12398,9 @@
         "instructor": "ZEYNEP ATAY GÖK",
         "name": "INORGANIC CHEMISTRY I",
         "rooms": [
-            "NH 403",
-            "NH 403",
-            "KB 125"
+            "EF 06",
+            "EF 06",
+            "NH 401"
         ],
         "requiredForDept": [
             "CEDU",
@@ -12336,7 +12418,7 @@
         "instructor": "ZEYNEP ATAY GÖK",
         "name": "P.S.",
         "rooms": [
-            "KB 125"
+            "NH 401"
         ],
         "requiredForDept": [
             "CEDU",
@@ -12487,9 +12569,9 @@
         "instructor": "AYŞE NEREN ÖKTE",
         "name": "PHOTOCHEMISTRY",
         "rooms": [
-            "KB 125",
-            "KB 125",
-            "KB 125"
+            "KB 126",
+            "KB 126",
+            "KB 126"
         ]
     },
     "CHEM435.01": {
@@ -13162,6 +13244,18 @@
             ""
         ]
     },
+    "CHEM599.02": {
+        "code": "CHEM599.02",
+        "credits": 4,
+        "days": [],
+        "ects": 8.0,
+        "hours": [],
+        "instructor": "ŞARON ÇATAK",
+        "name": "SP.TP.GUIDED RESEARCH IN MS",
+        "rooms": [
+            ""
+        ]
+    },
     "CHEM601.01": {
         "code": "CHEM601.01",
         "credits": 1,
@@ -13325,6 +13419,18 @@
         "ects": 8.0,
         "hours": [],
         "instructor": "RANA NOMAK SANYAL",
+        "name": "GUIDED RESEARCH",
+        "rooms": [
+            ""
+        ]
+    },
+    "CHEM699.02": {
+        "code": "CHEM699.02",
+        "credits": 4,
+        "days": [],
+        "ects": 8.0,
+        "hours": [],
+        "instructor": "AMITAV SANYAL",
         "name": "GUIDED RESEARCH",
         "rooms": [
             ""
@@ -13697,7 +13803,7 @@
         "rooms": [
             "M 1100",
             "M 1100",
-            "M 2170"
+            "M 1170"
         ]
     },
     "CL208.01": {
@@ -13775,9 +13881,9 @@
         "instructor": "ÇİĞDEM BUĞDAYCI GÜRSOY",
         "name": "SP.TP. SPECTRALITY",
         "rooms": [
-            "TB 415",
-            "İB 204",
-            "İB 204"
+            "TB 490",
+            "İB 211",
+            "İB 211"
         ]
     },
     "CL48E.01": {
@@ -13797,7 +13903,7 @@
         "instructor": "JAMESON J.KISMET BELL",
         "name": "SP.TP. POETIC GEOGRAPHIES OF DIVIDED CITIES",
         "rooms": [
-            "JF 332",
+            "NH 303",
             "VB 100",
             "VB 100"
         ]
@@ -13850,11 +13956,11 @@
             5,
             6
         ],
-        "instructor": "ŞEFİK ŞUAYB ARSLAN",
+        "instructor": "FAHRETTİN ÇAKIR",
         "name": "INTRO.TO COMPUTING FOR ECONOMICS&MANAGEMENT",
         "rooms": [
-            "BM B4",
-            "BM B4"
+            "HD 101",
+            "HD 101"
         ],
         "requiredForDept": [
             "EC"
@@ -13944,7 +14050,7 @@
         "hours": [
             5
         ],
-        "instructor": "MURAT ÖZYURT",
+        "instructor": "TUNA TUĞCU",
         "name": "INTRODUCTION TO COMPUTING",
         "rooms": [
             "NH 101"
@@ -14010,7 +14116,7 @@
         "hours": [
             6
         ],
-        "instructor": "MURAT ÖZYURT",
+        "instructor": "TUNA TUĞCU",
         "name": "P.S.",
         "rooms": [
             "NH 101"
@@ -17050,7 +17156,7 @@
             7,
             8
         ],
-        "instructor": "ERCAN ATAM",
+        "instructor": "HÜSEYİN OKTAY ALTUN",
         "name": "REINFORCEMENT LEARNING",
         "rooms": [
             "VB 200",
@@ -17067,7 +17173,7 @@
         "hours": [
             6
         ],
-        "instructor": "ERCAN ATAM",
+        "instructor": "HÜSEYİN OKTAY ALTUN",
         "name": "P.S.",
         "rooms": [
             "VB 200"
@@ -17096,20 +17202,6 @@
             "VB 100",
             "VB 100",
             "VB 100"
-        ]
-    },
-    "DSAI545.01 P.S. 1": {
-        "code": "DSAI545.01",
-        "days": [
-            "T"
-        ],
-        "hours": [
-            3
-        ],
-        "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
-        "name": "P.S.",
-        "rooms": [
-            "VB 201"
         ]
     },
     "DSAI549.01": {
@@ -17473,8 +17565,8 @@
         "instructor": "LEVENT YILDIRAN",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 105",
-            "NH 105",
+            "NH 402",
+            "NH 402",
             "EF 206"
         ],
         "requiredForDept": [
@@ -17500,9 +17592,9 @@
         "instructor": "BURÇAY ERUS",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 301",
-            "NH 301",
-            "NH 301"
+            "NH 001",
+            "NH 001",
+            "NH 001"
         ],
         "requiredForDept": [
             "AD",
@@ -17527,9 +17619,9 @@
         "instructor": "KIVANÇ KARAMAN",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 305",
-            "NH 305",
-            "NH 401"
+            "NH 105",
+            "NH 105",
+            "NH 101"
         ],
         "requiredForDept": [
             "CMPE",
@@ -17579,8 +17671,8 @@
         "instructor": "LEVENT YILDIRAN",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 002",
-            "NH 002",
+            "EF 06",
+            "EF 06",
             "EF 206"
         ],
         "requiredForDept": [
@@ -17605,8 +17697,8 @@
         "instructor": "BEGÜM ÖZKAYNAK",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 402",
-            "NH 402",
+            "NH 001",
+            "NH 001",
             "NB 119"
         ],
         "requiredForDept": [
@@ -17707,9 +17799,9 @@
         "instructor": "TALAT ULUSSEVER",
         "name": "PRINCIPLES OF MACROECONOMICS",
         "rooms": [
-            "NH 301",
-            "NH 301",
-            "NH 401"
+            "NH 304",
+            "NH 304",
+            "NH 202"
         ],
         "requiredForDept": [
             "ME",
@@ -17867,7 +17959,7 @@
         "instructor": "MURAT KOYUNCU",
         "name": "MACROECONOMICS II",
         "rooms": [
-            "M 2170",
+            "M 1170",
             "İB 102",
             "İB 102"
         ]
@@ -17891,7 +17983,7 @@
         "rooms": [
             "İB 102",
             "İB 102",
-            "M 1170"
+            "M 2152"
         ]
     },
     "EC223.02": {
@@ -17911,8 +18003,8 @@
         "instructor": "E. ÜNAL ZENGİNOBUZ",
         "name": "MATHEMATICS FOR ECONOMISTS",
         "rooms": [
-            "İB 102",
-            "İB 102",
+            "M 2181",
+            "M 2181",
             "M 1171"
         ]
     },
@@ -17977,9 +18069,9 @@
         "instructor": "MEHMET YİĞİT GÜRDAL",
         "name": "ADVANCED MICROECONOMICS",
         "rooms": [
-            "NB Z12",
-            "NB Z12",
-            "NB Z13"
+            "İB 103",
+            "İB 103",
+            "İB 100"
         ]
     },
     "EC308.01": {
@@ -17999,8 +18091,8 @@
         "instructor": "MURAT KOYUNCU",
         "name": "ADVANCED MACROECONOMICS",
         "rooms": [
-            "NB 119",
-            "NB 119",
+            "NB B10",
+            "NB B10",
             "M 2170"
         ]
     },
@@ -18109,7 +18201,7 @@
         "instructor": "TALAT ULUSSEVER",
         "name": "APPLIED MACROECONOMICS",
         "rooms": [
-            "NH 304",
+            "NH 201",
             "İB 211",
             "İB 211"
         ]
@@ -18197,9 +18289,9 @@
         "instructor": "MEHMET YİĞİT GÜRDAL",
         "name": "EXPERIMENTAL ECONOMICS",
         "rooms": [
-            "M 1170",
-            "NH 303",
-            "NH 303"
+            "İB 103",
+            "İB 100",
+            "İB 100"
         ]
     },
     "EC449.01": {
@@ -18264,8 +18356,8 @@
         "name": "TOPICS IN INTERNATIONAL DEVELOPMENT",
         "rooms": [
             "İB 204",
-            "İB 204",
-            "İB 204"
+            "İB 100",
+            "İB 100"
         ]
     },
     "EC474.02": {
@@ -18287,7 +18379,7 @@
         "rooms": [
             "İB 312",
             "İB 312",
-            "İB 204"
+            "İB 100"
         ]
     },
     "EC483.01": {
@@ -18308,8 +18400,8 @@
         "name": "SP.TP.IN ECONOMICS OF DISTRIBUTION",
         "rooms": [
             "NB Z11",
-            "NB Z11",
-            "NB Z11"
+            "NB Z13",
+            "NB Z13"
         ]
     },
     "EC486.01": {
@@ -18331,7 +18423,7 @@
         "rooms": [
             "NB Z11",
             "NB Z11",
-            "NB Z11"
+            "NB Z13"
         ]
     },
     "EC48E.01": {
@@ -18351,8 +18443,8 @@
         "instructor": "BURAK SALTOĞLU",
         "name": "SP.TP.IN FINAN.ECON.&MACHINE LEARN.",
         "rooms": [
-            "M 3120",
-            "M 3120",
+            "NB Z11",
+            "NB Z11",
             "NB Z11"
         ]
     },
@@ -18879,9 +18971,9 @@
         "instructor": "HAKAN ERGİN",
         "name": "INTRODUCTION TO EDUCATION",
         "rooms": [
-            "EF 06",
-            "EF 06",
-            "EF 06"
+            "EF 104",
+            "EF 104",
+            "EF 104"
         ]
     },
     "ED104.01": {
@@ -18993,8 +19085,8 @@
             "EF 116",
             "EF 116",
             "EF 116",
-            "EF 102",
-            "EF 102"
+            "EF 116",
+            "EF 116"
         ]
     },
     "ED211.01": {
@@ -19014,31 +19106,31 @@
         "instructor": "GAMZE İNAN",
         "name": "EDUCATIONAL PSYCHOLOGY",
         "rooms": [
-            "EF 07",
-            "EF 07",
-            "EF 07"
+            "NH 202",
+            "NH 202",
+            "NH 202"
         ]
     },
     "ED226.01": {
         "code": "ED  226.01",
         "credits": 3,
         "days": [
-            "T",
-            "T",
-            "Th"
+            "M",
+            "M",
+            "M"
         ],
         "ects": 5.0,
         "hours": [
-            6,
-            7,
-            5
+            2,
+            3,
+            4
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "AYŞE GÜR TURABOĞLU",
         "name": "THEORIES OF PERSONALITY",
         "rooms": [
-            "EF 206",
-            "EF 206",
-            "EF 104"
+            "NH 202",
+            "NH 202",
+            "NH 202"
         ]
     },
     "ED252.01": {
@@ -19199,9 +19291,9 @@
         "instructor": "SÜREYYA YÖRÜK",
         "name": "MEASUREMENT AND EVALUATION",
         "rooms": [
-            "EF 07",
-            "EF 07",
-            "EF 07"
+            "EF 206",
+            "EF 206",
+            "EF 206"
         ]
     },
     "ED401.01": {
@@ -19340,9 +19432,9 @@
         "instructor": "BARIŞ KORKMAZ",
         "name": "EDUCATIONAL NEUROLOGY",
         "rooms": [
-            "EF 201",
-            "EF 201",
-            "EF 201"
+            "EF 302",
+            "EF 302",
+            "EF 302"
         ]
     },
     "ED444.01": {
@@ -19471,6 +19563,28 @@
             "EF 103",
             "EF 103",
             "EF 103"
+        ]
+    },
+    "ED478.03": {
+        "code": "ED  478.03",
+        "credits": 4,
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "ects": 8.0,
+        "hours": [
+            4,
+            5,
+            6,
+            7
+        ],
+        "instructor": "GAMZE İNAN",
+        "name": "SCHOOL COUNSELING PRACTICUM II",
+        "rooms": [
+            ""
         ]
     },
     "ED48D.01": {
@@ -19704,7 +19818,9 @@
         "instructor": "HAKAN ERGİN",
         "name": "SOCIAL CONTEXTS OF CURRICULUM POLICY&PRACTICE IN TURKEY",
         "rooms": [
-            ""
+            "EF 104",
+            "EF 104",
+            "EF 104"
         ]
     },
     "ED566.01": {
@@ -20017,14 +20133,14 @@
         "hours": [
             5,
             6,
-            5
+            6
         ],
         "instructor": "YAĞMUR DENİZHAN",
         "name": "INTRODUCTION TO ELECTRICAL ENGINEERING",
         "rooms": [
             "KB FARADAY",
             "KB FARADAY",
-            "KB FARADAY"
+            "KB KIRCHHOFF"
         ]
     },
     "EE212.01": {
@@ -21143,8 +21259,8 @@
         "name": "ADVANCED VLSI DESIGN",
         "rooms": [
             "KB MAXWELL-251",
-            "KB MAXWELL-251",
-            "KB MAXWELL-251"
+            "KB FOURIER-233",
+            "KB FOURIER-233"
         ]
     },
     "EE653.01": {
@@ -21459,7 +21575,7 @@
         "days": [],
         "ects": 10.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "MUTLU KOCA",
         "name": "GUIDED RESEARCH",
         "rooms": [
             ""
@@ -21471,7 +21587,7 @@
         "days": [],
         "ects": 10.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "MURAT SARAÇLAR",
         "name": "GUIDED RESEARCH",
         "rooms": [
             ""
@@ -21483,7 +21599,7 @@
         "days": [],
         "ects": 10.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "MURAT SARAÇLAR",
         "name": "GUIDED RESEARCH",
         "rooms": [
             ""
@@ -22262,8 +22378,8 @@
         "instructor": "N.CİHAN YURDAÜN",
         "name": "THE ENGLISH ROMANTICS",
         "rooms": [
-            "TB 415",
-            "TB 415",
+            "TB 490",
+            "TB 490",
             "M 1200"
         ]
     },
@@ -22457,6 +22573,18 @@
             ""
         ]
     },
+    "EL592.01": {
+        "code": "EL  592.01",
+        "credits": 4,
+        "days": [],
+        "ects": 10.0,
+        "hours": [],
+        "instructor": "MATTHEW GUMPERT",
+        "name": "SPC.STUD.:LITERARY THEORY",
+        "rooms": [
+            ""
+        ]
+    },
     "EL594.01": {
         "code": "EL  594.01",
         "credits": 4,
@@ -22486,7 +22614,9 @@
         "instructor": "NAZ BULAMUR",
         "name": "SP.TP.POSTMODERN FICTIONS",
         "rooms": [
-            ""
+            "TB 480",
+            "TB 480",
+            "TB 480"
         ]
     },
     "EL68D.01": {
@@ -22506,7 +22636,9 @@
         "instructor": "ÖZLEM GÖREY",
         "name": "SP.TP.POETRY",
         "rooms": [
-            ""
+            "TB 480",
+            "TB 480",
+            "TB 480"
         ]
     },
     "EL690.01": {
@@ -22855,7 +22987,7 @@
             8,
             8
         ],
-        "instructor": "NAZ BULAMUR",
+        "instructor": "ÇİĞDEM BUĞDAYCI GÜRSOY",
         "name": "INTRODUCTION TO LITERARY FORMS II",
         "rooms": [
             "M 2230",
@@ -24611,9 +24743,9 @@
         "code": "ETM 596.01",
         "credits": 3,
         "days": [
-            "Th",
-            "Th",
-            "Th"
+            "F",
+            "F",
+            "F"
         ],
         "ects": 7.0,
         "hours": [
@@ -24697,9 +24829,9 @@
         "code": "FA  348.01",
         "credits": 3,
         "days": [
-            "F",
-            "F",
-            "F",
+            "M",
+            "M",
+            "M",
             "F",
             "F"
         ],
@@ -24708,17 +24840,17 @@
             6,
             7,
             8,
-            9,
-            10
+            6,
+            7
         ],
         "instructor": "CİHAT ARINÇ",
         "name": "INTRODUCTION TO FILM ANALYSIS",
         "rooms": [
-            "JF 102",
-            "JF 102",
-            "JF 102",
-            "JF 102",
-            "JF 102"
+            "MİTHAT ALAM",
+            "MİTHAT ALAM",
+            "MİTHAT ALAM",
+            "MİTHAT ALAM",
+            "MİTHAT ALAM"
         ]
     },
     "FA349.01": {
@@ -24851,12 +24983,12 @@
             8,
             9
         ],
-        "instructor": "ÖZDE ÇELİKTEMEL THOMEN",
+        "instructor": "ÖZDE ÇELİKTEMEL",
         "name": "SP.TP.CINEMA IN THE LATE OTTOMAN EMPIRE&MODERN TURKEY",
         "rooms": [
-            "VB 201",
-            "VB 201",
-            "VB 201"
+            "JF 333",
+            "JF 333",
+            "JF 333"
         ]
     },
     "FA48C.01": {
@@ -24876,9 +25008,9 @@
         "instructor": "KEREM DEREN",
         "name": "SP.TP.SCREENWRITING EVERYWHERE ALL AT ONCE",
         "rooms": [
-            "EF 203",
-            "EF 203",
-            "EF 203"
+            "MİTHAT ALAM",
+            "MİTHAT ALAM",
+            "MİTHAT ALAM"
         ]
     },
     "FA48E.01": {
@@ -25001,9 +25133,9 @@
         "instructor": "MUHAMMET YUSUF EMİRDAR",
         "name": "SP.TP.MAKING OF A FILM",
         "rooms": [
-            "JF 331",
-            "JF 331",
-            "JF 331"
+            "MİTHAT ALAM",
+            "MİTHAT ALAM",
+            "MİTHAT ALAM"
         ]
     },
     "FA49K.01": {
@@ -25627,7 +25759,7 @@
         "rooms": [
             "EF 06",
             "EF 06",
-            "EF 116"
+            "EF 302"
         ]
     },
     "FLED314.01": {
@@ -25760,9 +25892,9 @@
         "instructor": "DİLEK İNAL",
         "name": "LITERATURE IN ENGLISH LANGUAGE EDUCATION",
         "rooms": [
-            "EF 204",
-            "EF 204",
-            "EF 204"
+            "EF 116",
+            "EF 116",
+            "EF 116"
         ]
     },
     "FLED412.01": {
@@ -26017,26 +26149,8 @@
             ""
         ]
     },
-    "FLED412.08": {
-        "code": "FLED412.08",
-        "credits": 4,
-        "days": [
-            "Th",
-            "Th"
-        ],
-        "ects": 9.0,
-        "hours": [
-            5,
-            6
-        ],
-        "instructor": "TUBA ARABACI ATLAMAZ",
-        "name": "PRACTICE TEACHING IN ENGLISH AS A FOREIGN LANGUAGE II",
-        "rooms": [
-            ""
-        ]
-    },
-    "FLED412.08 LAB 1": {
-        "code": "FLED412.08",
+    "FLED412.07 LAB 2": {
+        "code": "FLED412.07",
         "days": [
             "T",
             "T",
@@ -26368,25 +26482,6 @@
             8
         ],
         "instructor": "SENEM YILDIZ ERSOY",
-        "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
-        "rooms": [
-            "EF 106",
-            "EF 106"
-        ]
-    },
-    "FLED416.08": {
-        "code": "FLED416.08",
-        "credits": 4,
-        "days": [
-            "Th",
-            "Th"
-        ],
-        "ects": 6.0,
-        "hours": [
-            7,
-            8
-        ],
-        "instructor": "TUBA ARABACI ATLAMAZ",
         "name": "REFLECTIONS ON PRACTICE TEACHING IN EFL",
         "rooms": [
             "EF 106",
@@ -26935,8 +27030,8 @@
             "EF 104",
             "JF 334",
             "JF 334",
-            "EF 302",
-            "EF 302"
+            "EF 05",
+            "EF 05"
         ]
     },
     "FR101.02": {
@@ -27021,7 +27116,7 @@
             8,
             9
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "OYA SONER",
         "name": "ELEMENTARY FRENCH I",
         "rooms": [
             "EF 101",
@@ -27179,12 +27274,12 @@
         "instructor": "PINAR PEKTAŞ",
         "name": "INTERMEDIATE FRENCH I",
         "rooms": [
-            "VB 200",
-            "VB 200",
-            "EF 07",
-            "EF 07",
-            "EF 02",
-            "EF 02"
+            "EF 102",
+            "EF 102",
+            "EF 203",
+            "EF 203",
+            "EF 201",
+            "EF 201"
         ]
     },
     "FR202.01": {
@@ -27272,9 +27367,9 @@
         "instructor": "DENİZ ONUR",
         "name": "INTERMEDIATE FRENCH II",
         "rooms": [
-            "JF 333",
-            "JF 333",
-            "JF 333",
+            "VB 201",
+            "VB 201",
+            "VB 201",
             "JF 101",
             "JF 101",
             "JF 101"
@@ -27305,10 +27400,10 @@
         "rooms": [
             "EF 102",
             "EF 102",
-            "JF 101",
-            "JF 101",
-            "JF 101",
-            "JF 101"
+            "EF 203",
+            "EF 203",
+            "EF 201",
+            "EF 201"
         ]
     },
     "FR301.01": {
@@ -27334,9 +27429,9 @@
         "instructor": "DENİZ ONUR",
         "name": "ADVANCED FRENCH I",
         "rooms": [
-            "JF 333",
-            "JF 333",
-            "JF 333",
+            "VB 201",
+            "VB 201",
+            "VB 201",
             "JF 102",
             "JF 102",
             "JF 102"
@@ -27369,8 +27464,8 @@
             "EF 104",
             "JF 334",
             "JF 334",
-            "EF 302",
-            "EF 302"
+            "EF 05",
+            "EF 05"
         ]
     },
     "FR302.02": {
@@ -28240,8 +28335,8 @@
         "rooms": [
             "KP 05",
             "KP 05",
-            "EF 06",
-            "EF 06",
+            "EF 03",
+            "EF 03",
             "KP 05",
             "KP 05"
         ]
@@ -28302,8 +28397,8 @@
         "rooms": [
             "KP 05",
             "KP 05",
-            "EF 06",
-            "EF 06",
+            "EF 03",
+            "EF 03",
             "KP 05",
             "KP 05"
         ]
@@ -28690,9 +28785,9 @@
         "instructor": "ŞEVKİ KORAY DURAK",
         "name": "HISTORICAL METHOD & THOUGHT II",
         "rooms": [
-            "TB 490",
-            "TB 490",
-            "TB 490"
+            "M 1170",
+            "M 1170",
+            "NH 002"
         ]
     },
     "HIST106.01": {
@@ -28714,10 +28809,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 02",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.02": {
@@ -28739,10 +28834,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 03",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.03": {
@@ -28764,10 +28859,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 04",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.04": {
@@ -28789,10 +28884,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 05",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.05": {
@@ -28814,10 +28909,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 06",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.06": {
@@ -28839,10 +28934,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 02",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.07": {
@@ -28864,10 +28959,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 03",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.08": {
@@ -28889,10 +28984,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 04",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.09": {
@@ -28914,10 +29009,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 05",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.10": {
@@ -28939,10 +29034,10 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 06",
-            "AYHAN ŞAHENK"
+            "ALH-BTS"
         ]
     },
     "HIST106.11": {
@@ -28964,9 +29059,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 02"
         ]
     },
@@ -28989,9 +29084,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 03"
         ]
     },
@@ -29014,9 +29109,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 05"
         ]
     },
@@ -29039,9 +29134,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 06"
         ]
     },
@@ -29064,9 +29159,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 02"
         ]
     },
@@ -29089,9 +29184,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 03"
         ]
     },
@@ -29114,9 +29209,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 05"
         ]
     },
@@ -29139,9 +29234,9 @@
         "instructor": "ZEYNEP HALE EROĞLU SAGER",
         "name": "THE MAKING OF THE MODERN WORLD II",
         "rooms": [
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
-            "AYHAN ŞAHENK",
+            "ALH-BTS",
+            "ALH-BTS",
+            "ALH-BTS",
             "KP 06"
         ]
     },
@@ -29205,16 +29300,16 @@
         ],
         "ects": 5.0,
         "hours": [
-            7,
-            8,
-            7
+            5,
+            6,
+            5
         ],
         "instructor": "AKİF ERCİHAN YERLİOĞLU",
         "name": "OTTOMAN HISTORY 1300-1600",
         "rooms": [
-            "TB 415",
-            "TB 415",
-            "TB 490"
+            "NH 201",
+            "NH 201",
+            "M 1200"
         ]
     },
     "HIST222.02": {
@@ -29300,8 +29395,8 @@
         "instructor": "N.CİHAN YURDAÜN",
         "name": "HIST.OF THE AMERICAS,1750 TO THE PRESENT",
         "rooms": [
-            "NH 304",
-            "NH 304",
+            "JF 331",
+            "JF 331",
             "M 2152"
         ]
     },
@@ -29454,9 +29549,9 @@
         "instructor": "PAOLO GIRARDELLI",
         "name": "HISTORY OF MODERN ART & ARCHITECTURE",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "İB 312",
+            "İB 312",
+            "İB 312"
         ]
     },
     "HIST402.01": {
@@ -29477,8 +29572,8 @@
         "name": "HISTORIOGRAPHY II",
         "rooms": [
             "M 2180",
-            "İB 100",
-            "İB 100"
+            "NH 103",
+            "NH 103"
         ]
     },
     "HIST432.01": {
@@ -29520,9 +29615,9 @@
         "instructor": "SELÇUK ESENBEL",
         "name": "JAPANESE HIST.:FROM FEUDAL TO MOD.JAP.II",
         "rooms": [
-            "İB 100",
-            "İB 100",
-            "İB 100"
+            "İB 204",
+            "İB 204",
+            "İB 204"
         ]
     },
     "HIST438.01": {
@@ -29542,9 +29637,9 @@
         "instructor": "HYUN WOONG HONG",
         "name": "KOREAN HISTORY II",
         "rooms": [
-            "NB 118",
-            "NB 118",
-            "NB 118"
+            "M 2200",
+            "M 2200",
+            "M 2181"
         ]
     },
     "HIST461.01": {
@@ -30277,6 +30372,18 @@
         "hours": [],
         "instructor": "PAOLO GIRARDELLI",
         "name": "SP.TP.ARCHITECTURE&URBANISM IN THE EASTERN MEDITERRENEAN",
+        "rooms": [
+            ""
+        ]
+    },
+    "HIST690.01": {
+        "code": "HIST690.01",
+        "credits": 0,
+        "days": [],
+        "ects": 60.0,
+        "hours": [],
+        "instructor": "CENGİZ KIRLI",
+        "name": "MASTER THESIS",
         "rooms": [
             ""
         ]
@@ -31123,7 +31230,7 @@
             3,
             4
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "CAN GÜMÜŞ İSPİR",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
             "NH 102",
@@ -31142,7 +31249,7 @@
             5,
             6
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "CAN GÜMÜŞ İSPİR",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
             "NH 102",
@@ -31161,7 +31268,7 @@
             4,
             5
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "CAN GÜMÜŞ İSPİR",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
             "NH 104",
@@ -31180,7 +31287,7 @@
             6,
             7
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "CAN GÜMÜŞ İSPİR",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
             "NH 104",
@@ -31482,10 +31589,10 @@
         "instructor": "ALİ TAMER ÜNAL",
         "name": "INTERMEDIATE PROGRAMMING",
         "rooms": [
-            "VYKM2",
-            "VYKM2",
-            "VYKM3",
-            "VYKM3"
+            "VYKM1",
+            "VYKM1",
+            "M 1171",
+            "M 1171"
         ]
     },
     "IE202.01": {
@@ -31538,10 +31645,10 @@
         "name": "OPERATIONS RESEARCH II",
         "rooms": [
             "VYKM1",
-            "VYKM4",
-            "VYKM4",
-            "M 3120",
-            "M 3120"
+            "M 1170",
+            "M 1170",
+            "M 1170",
+            "M 1170"
         ]
     },
     "IE220.01": {
@@ -31563,10 +31670,10 @@
         "instructor": "EBUBEKİR KOÇ",
         "name": "MATERIALS AND PROCESSES IN MANUFACTURING",
         "rooms": [
-            "VYKM2",
-            "M 3100",
-            "M 3100",
-            "M 3100"
+            "VYKM1",
+            "VYKM1",
+            "VYKM1",
+            "VYKM1"
         ]
     },
     "IE255.01": {
@@ -31675,7 +31782,7 @@
             "VYKM1",
             "VYKM1",
             "VYKM1",
-            "M 1100"
+            "VYKM1"
         ]
     },
     "IE350.01": {
@@ -31887,7 +31994,7 @@
             7,
             8
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "AYBEK KORUGAN",
         "name": "PROJECT",
         "rooms": [
             "VYKM2",
@@ -32266,7 +32373,7 @@
             7,
             8
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "ÜMİT BİLGE",
         "name": "GRADUATE SEMINAR",
         "rooms": [
             ""
@@ -32708,7 +32815,7 @@
             2,
             3
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "AHU LATİFOĞLU DOĞAN",
         "name": "SIMULTANEOUS INTERPRETING B<>A",
         "rooms": [
             "JF 401",
@@ -32730,7 +32837,7 @@
             7,
             8
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "EZGİ ÜNLÜER BAGLIETO",
         "name": "SIMULTANEOUS INTERPRETING C>A",
         "rooms": [
             "JF 401",
@@ -32752,7 +32859,7 @@
             6,
             7
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "HANDE GÜNER",
         "name": "SIMULTANEOUS INTERPRETING IN CONFERENCE SITUATIONS",
         "rooms": [
             "JF 401",
@@ -32774,7 +32881,7 @@
             10,
             11
         ],
-        "instructor": "EBRU DİRİKER",
+        "instructor": "JONATHAN MAURICE ROSS",
         "name": "INTERPRETING THEORY",
         "rooms": [
             "JF 401",
@@ -32818,7 +32925,7 @@
             2,
             3
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "EZGİ ÜNLÜER BAGLIETO",
         "name": "CONSECUTIVE INTERPRETING C>A",
         "rooms": [
             "JF 401",
@@ -34244,8 +34351,8 @@
         "ects": 5.0,
         "hours": [
             5,
-            3,
-            4
+            2,
+            3
         ],
         "instructor": "MUSTAFA AKGÜN",
         "name": "INTRODUCTION TO LAW",
@@ -34314,8 +34421,8 @@
         "instructor": "AYŞE DİDEM SEZGİN",
         "name": "INTRODUCTION TO LAW",
         "rooms": [
-            "İB 201",
-            "İB 201",
+            "M 2230",
+            "M 2230",
             "M 2170"
         ]
     },
@@ -34666,7 +34773,7 @@
         "instructor": "HÜSEYİN DİŞLİ",
         "name": "LEGAL PHILOSOPHY",
         "rooms": [
-            "İB 312",
+            "M 2171",
             "M 1200",
             "M 1200"
         ]
@@ -34922,8 +35029,8 @@
         "instructor": "MUHAMMED FURKAN AKINCI",
         "name": "INTERNET LAW",
         "rooms": [
-            "NH 102",
-            "NH 102",
+            "EF 05",
+            "EF 05",
             "M 2171"
         ]
     },
@@ -34955,8 +35062,8 @@
         "name": "INTELLECTUAL PROPERTY LAW",
         "rooms": [
             "M 2170",
-            "M 2170",
-            "M 2170"
+            "M 1169",
+            "M 1169"
         ]
     },
     "LAW341.01 P.S. 1": {
@@ -34986,8 +35093,8 @@
         "instructor": "ALİ EMRAH BOZBAYINDIR",
         "name": "INTERNATIONAL CRIMINAL LAW",
         "rooms": [
-            "M 2200",
-            "M 2200",
+            "NB 118",
+            "NB 118",
             "M 1200"
         ]
     },
@@ -35052,10 +35159,10 @@
         "instructor": "ELENA GUERZONI",
         "name": "INTRODUCTION TO LANGUAGE&LINGUISTICS I",
         "rooms": [
-            "TB 310",
-            "TB 310",
-            "TB 310",
-            "TB 310"
+            "NH 202",
+            "NH 202",
+            "NH 201",
+            "NH 201"
         ],
         "requiredForDept": [
             "LL",
@@ -35081,10 +35188,10 @@
         "instructor": "KADİR GÖKGÖZ",
         "name": "INTRODUCTION TO LANGUAGE&LINGUISTICS I",
         "rooms": [
-            "NH 202",
-            "NH 202",
-            "NH 201",
-            "NH 201"
+            "TB 310",
+            "TB 310",
+            "TB 310",
+            "TB 310"
         ],
         "requiredForDept": [
             "LL",
@@ -35113,7 +35220,7 @@
             "M 1100",
             "M 1100",
             "NH 201",
-            "TB 310"
+            "M 1171"
         ]
     },
     "LING104.01": {
@@ -35185,10 +35292,10 @@
         "instructor": "METİN BAĞRIAÇIK",
         "name": "LANGUAGE TYPOLOGY",
         "rooms": [
-            "M 2181",
-            "M 2181",
-            "M 2181",
-            "M 2181"
+            "NH 203",
+            "NH 203",
+            "NH 203",
+            "NH 203"
         ]
     },
     "LING314.01": {
@@ -35262,8 +35369,8 @@
         "name": "LANGUAGE CONTACT",
         "rooms": [
             "TB 415",
-            "EF 104",
-            "EF 104"
+            "TB 240",
+            "TB 240"
         ]
     },
     "LING360.01": {
@@ -35507,6 +35614,18 @@
             ""
         ]
     },
+    "LING412.19": {
+        "code": "LING412.19",
+        "credits": 4,
+        "days": [],
+        "ects": 8.0,
+        "hours": [],
+        "instructor": "METİN BAĞRIAÇIK",
+        "name": "RESEARCH & WRITING",
+        "rooms": [
+            ""
+        ]
+    },
     "LING414.01": {
         "code": "LING414.01",
         "credits": 3,
@@ -35526,8 +35645,8 @@
         "instructor": "KADİR GÖKGÖZ",
         "name": "SIGN LANGUAGE LINGUISTICS",
         "rooms": [
-            "JF 333",
-            "JF 333",
+            "İB 204",
+            "İB 204",
             "TB 490",
             "TB 490"
         ]
@@ -35595,7 +35714,7 @@
         "rooms": [
             "M 1200",
             "M 1200",
-            "TB 310"
+            "M 1171"
         ]
     },
     "LING48S.01": {
@@ -35615,7 +35734,7 @@
         "instructor": "DENİZ ZEYREK BOZŞAHİN",
         "name": "SP.TP.CORPUS LINGUISTICS AND PRAGMATICS",
         "rooms": [
-            "EF 205",
+            "TB 415",
             "EF 202",
             "EF 202"
         ]
@@ -35637,9 +35756,9 @@
         "instructor": "MEHMET ÖLMEZ",
         "name": "SP.TP.STRUCTURE OF TURKIC LANGUAGES II",
         "rooms": [
-            "JF 331",
-            "JF 331",
-            "JF 331"
+            "M 1171",
+            "M 1171",
+            "M 1171"
         ]
     },
     "LING501.01": {
@@ -36414,6 +36533,22 @@
             ""
         ]
     },
+    "LS670.02": {
+        "code": "LS  670.02",
+        "credits": 1,
+        "days": [
+            "M"
+        ],
+        "ects": 6.0,
+        "hours": [
+            9
+        ],
+        "instructor": "YAVUZ AKPINAR",
+        "name": "DIRECTED READINGS IN LEARNING SCIENCES",
+        "rooms": [
+            ""
+        ]
+    },
     "LS682.01": {
         "code": "LS  682.01",
         "credits": 3,
@@ -36923,10 +37058,10 @@
         "instructor": "ÖZLEM BEYARSLAN",
         "name": "INTRODUCTION TO MATHEMATICAL STRUCTURES",
         "rooms": [
-            "M 1170",
-            "M 1170",
-            "M 1170",
-            "M 1170"
+            "EF 106",
+            "EF 106",
+            "EF 106",
+            "EF 106"
         ],
         "requiredForDept": [
             "MATH",
@@ -37205,10 +37340,10 @@
         "instructor": "ÖZLEM BEYARSLAN",
         "name": "GROUP THEORY",
         "rooms": [
-            "TB 240",
-            "TB 240",
-            "TB 240",
-            "TB 240"
+            "EF 106",
+            "EF 106",
+            "EF 106",
+            "EF 106"
         ],
         "requiredForDept": [
             "MEDU"
@@ -37263,8 +37398,8 @@
         "rooms": [
             "TB 310",
             "TB 310",
-            "M 1171",
-            "M 1171"
+            "TB 310",
+            "TB 310"
         ]
     },
     "MATH323.01": {
@@ -37286,10 +37421,10 @@
         "instructor": "AHMET KAMİL FEYZİOĞLU",
         "name": "RINGS,FIELDS&GALOIS THEORY",
         "rooms": [
-            "M 1169",
-            "M 1169",
-            "M 1169",
-            "M 1169"
+            "M 3120",
+            "M 3120",
+            "M 3120",
+            "M 3120"
         ]
     },
     "MATH338.01": {
@@ -37793,6 +37928,30 @@
             ""
         ]
     },
+    "MATH790.05": {
+        "code": "MATH790.05",
+        "credits": 0,
+        "days": [],
+        "ects": 120.0,
+        "hours": [],
+        "instructor": "MÜGE TAŞKIN AYDIN",
+        "name": "Ph.D.THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "MATH790.06": {
+        "code": "MATH790.06",
+        "credits": 0,
+        "days": [],
+        "ects": 120.0,
+        "hours": [],
+        "instructor": "FERİT ÖZTÜRK",
+        "name": "Ph.D.THESIS",
+        "rooms": [
+            ""
+        ]
+    },
     "ME120.01": {
         "code": "ME  120.01",
         "credits": 3,
@@ -37812,8 +37971,8 @@
         "instructor": "KERİM CAN DANSUK",
         "name": "INTRODUCTION TO MECHANICAL ENGINEERING",
         "rooms": [
-            "VYKM1",
-            "VYKM1",
+            "VYKM2",
+            "VYKM2",
             "M 1170",
             "M 1170"
         ]
@@ -37837,7 +37996,7 @@
         "rooms": [
             "NH 304",
             "NH 304",
-            "M 1170"
+            "NH 304"
         ],
         "requiredForDept": [
             "CHE"
@@ -38043,8 +38202,8 @@
         "name": "COMPUTER APPLICATIONS IN MECHANICAL ENG",
         "rooms": [
             "VYKM4",
-            "M 3100",
-            "M 3100"
+            "M 3160",
+            "M 3160"
         ]
     },
     "ME303.01 LAB 1": {
@@ -38094,7 +38253,7 @@
         "instructor": "ASGHAR ARYANFAR",
         "name": "MANUFACTURING TECHNIQUES",
         "rooms": [
-            "VYKM3",
+            "M 1100",
             "VYKM1",
             "VYKM1"
         ]
@@ -38145,8 +38304,8 @@
         "rooms": [
             "VYKM1",
             "VYKM1",
-            "M 1170",
-            "M 1170"
+            "M 3100",
+            "M 3100"
         ]
     },
     "ME353.01": {
@@ -38448,8 +38607,8 @@
         "instructor": "MURAT ÇELİK",
         "name": "ADVANCED ENGINEERING MATHEMATICS II",
         "rooms": [
-            "M 1169",
-            "M 1169",
+            "M 2180",
+            "M 2180",
             "VYKM3"
         ]
     },
@@ -38895,28 +39054,6 @@
             "M 2180",
             "VYKM6",
             "VYKM6"
-        ]
-    },
-    "ME654.01": {
-        "code": "ME  654.01",
-        "credits": 3,
-        "days": [
-            "M",
-            "M",
-            "W"
-        ],
-        "ects": 8.0,
-        "hours": [
-            3,
-            4,
-            2
-        ],
-        "instructor": "HALUK ÖRS",
-        "name": "GAS DYNAMICS",
-        "rooms": [
-            "M 2200",
-            "M 2200",
-            "M 3120"
         ]
     },
     "ME662.01": {
@@ -40396,7 +40533,7 @@
             3,
             4
         ],
-        "instructor": "MEHMET NAFIZ AYDIN",
+        "instructor": "MEHMET NAFİZ AYDIN",
         "name": "OBJECT ORIENTED MODELING AND DEVELOPMENT",
         "rooms": [
             "HD 301",
@@ -40414,7 +40551,7 @@
             6,
             7
         ],
-        "instructor": "MEHMET NAFIZ AYDIN",
+        "instructor": "MEHMET NAFİZ AYDIN",
         "name": "P.S.",
         "rooms": [
             "HB 104",
@@ -42021,7 +42158,10 @@
         "instructor": "RIDVAN AYDINLI",
         "name": "OTTOMAN MUSICAL PRACTICUM II",
         "rooms": [
-            ""
+            "HB 101",
+            "HB 101",
+            "HB 101",
+            "HB 101"
         ]
     },
     "PA356.02": {
@@ -42043,7 +42183,10 @@
         "instructor": "RIDVAN AYDINLI",
         "name": "OTTOMAN MUSICAL PRACTICUM II",
         "rooms": [
-            ""
+            "HB 101",
+            "HB 101",
+            "HB 101",
+            "HB 101"
         ]
     },
     "PA356.03": {
@@ -42065,7 +42208,10 @@
         "instructor": "RIDVAN AYDINLI",
         "name": "OTTOMAN MUSICAL PRACTICUM II",
         "rooms": [
-            ""
+            "HB 101",
+            "HB 101",
+            "HB 101",
+            "HB 101"
         ]
     },
     "PA374.01": {
@@ -42137,7 +42283,10 @@
         "instructor": "EMİNE SERDAROĞLU",
         "name": "TONAL HARMONY II",
         "rooms": [
-            ""
+            "HB 101",
+            "HB 101",
+            "HB 101",
+            "HB 101"
         ]
     },
     "PA452.02": {
@@ -42159,7 +42308,10 @@
         "instructor": "EMİNE SERDAROĞLU",
         "name": "TONAL HARMONY II",
         "rooms": [
-            ""
+            "HB 101",
+            "HB 101",
+            "HB 101",
+            "HB 101"
         ]
     },
     "PE102.01": {
@@ -44257,7 +44409,7 @@
         "instructor": "NURBAY IRMAK",
         "name": "INTRODUCTION TO PHILOSOPHY",
         "rooms": [
-            "NH 403",
+            "M 2171",
             "İB 102",
             "İB 102"
         ]
@@ -44351,7 +44503,7 @@
         "rooms": [
             "TB 310",
             "TB 310",
-            "NH 101"
+            "NH 401"
         ],
         "requiredForDept": [
             "GUID",
@@ -44466,8 +44618,8 @@
         "instructor": "LUCAS THORPE",
         "name": "HISTORY OF PHILOSOPHY IV",
         "rooms": [
-            "NH 305",
-            "NH 305",
+            "M 1100",
+            "M 1100",
             "TB 310"
         ]
     },
@@ -44510,9 +44662,9 @@
         "instructor": "STEPHEN VOSS",
         "name": "THE SELF",
         "rooms": [
-            "JF 102",
-            "M 1169",
-            "M 1169"
+            "JF 333",
+            "JF 333",
+            "JF 333"
         ]
     },
     "PHIL417.01": {
@@ -44598,9 +44750,9 @@
         "instructor": "CEM ŞİŞKOLAR",
         "name": "SP. TP. DEFINITE NOUN PHRASES AND MODALS",
         "rooms": [
-            "JF 507",
-            "JF 507",
-            "JF 507"
+            "ET 01",
+            "ET 01",
+            "ET 01"
         ]
     },
     "PHIL48S.01": {
@@ -44858,7 +45010,9 @@
         "instructor": "BAŞAK ARAY",
         "name": "PHILOSOPHY OF LANGUAGE",
         "rooms": [
-            ""
+            "JF 507",
+            "JF 507",
+            "JF 507"
         ]
     },
     "PHIL579.01": {
@@ -44890,7 +45044,7 @@
         "instructor": "NEDİM NAİM NOMER",
         "name": "SP.TP.PHILOSOPHY OF LAW",
         "rooms": [
-            ""
+            "TB 480"
         ]
     },
     "PHIL58Z.01": {
@@ -45630,10 +45784,10 @@
         "instructor": "SERDAR NERGİZ",
         "name": "PHYSICS III",
         "rooms": [
-            "EF 106",
-            "EF 106",
-            "EF 106",
-            "EF 106"
+            "KB Z01",
+            "KB Z01",
+            "NH 305",
+            "NH 305"
         ]
     },
     "PHYS201.03": {
@@ -45680,10 +45834,10 @@
         "instructor": "SERDAR NERGİZ",
         "name": "PHYSICS III",
         "rooms": [
-            "EF 106",
-            "EF 106",
-            "EF 106",
-            "EF 106"
+            "KB Z01",
+            "KB Z01",
+            "NH 305",
+            "NH 305"
         ]
     },
     "PHYS202.01": {
@@ -45705,8 +45859,8 @@
         "instructor": "ÖZHAN ÖZATAY",
         "name": "PHYSICS IV",
         "rooms": [
-            "KB Z01",
-            "KB Z01",
+            "NH 002",
+            "NH 002",
             "KB Z01",
             "KB Z01"
         ]
@@ -45730,8 +45884,8 @@
         "instructor": "ÖZHAN ÖZATAY",
         "name": "PHYSICS IV",
         "rooms": [
-            "KB Z01",
-            "KB Z01",
+            "NH 002",
+            "NH 002",
             "KB Z01",
             "KB Z01"
         ]
@@ -45775,9 +45929,9 @@
         "instructor": "ALİ ÖZGÜN KONCA",
         "name": "INTRODUCTION TO EARTH SCIENCE I",
         "rooms": [
-            "EF 04",
-            "EF 04",
-            "EF 04"
+            "NH 002",
+            "NH 002",
+            "NH 002"
         ]
     },
     "PHYS302.01": {
@@ -46044,7 +46198,9 @@
         "instructor": "YANI SKARLATOS",
         "name": "INTRO.TO ELECTROMAGNETIC RADIATION",
         "rooms": [
-            ""
+            "ET 03",
+            "ET 03",
+            "ET 03"
         ]
     },
     "PHYS392.01": {
@@ -46251,7 +46407,10 @@
         "instructor": "CAN KOZÇAZ",
         "name": "SP.TP.PATH INTEGRALS&APPLICATIONS",
         "rooms": [
-            ""
+            "EF 202",
+            "EF 202",
+            "KB MAXWELL-251",
+            "KB MAXWELL-251"
         ]
     },
     "PHYS48H.01": {
@@ -46381,6 +46540,30 @@
         "ects": 6.0,
         "hours": [],
         "instructor": "ARKADAŞ İNAN ÖZAKIN",
+        "name": "INTRODUCTION TO RESEARCH IN PHYSICS II",
+        "rooms": [
+            ""
+        ]
+    },
+    "PHYS492.10": {
+        "code": "PHYS492.10",
+        "credits": 3,
+        "days": [],
+        "ects": 6.0,
+        "hours": [],
+        "instructor": "VEYSİ ERKCAN ÖZCAN",
+        "name": "INTRODUCTION TO RESEARCH IN PHYSICS II",
+        "rooms": [
+            ""
+        ]
+    },
+    "PHYS492.11": {
+        "code": "PHYS492.11",
+        "credits": 3,
+        "days": [],
+        "ects": 6.0,
+        "hours": [],
+        "instructor": "OSMAN TEOMAN TURGUT",
         "name": "INTRODUCTION TO RESEARCH IN PHYSICS II",
         "rooms": [
             ""
@@ -46558,14 +46741,14 @@
             ""
         ]
     },
-    "PHYS628.01": {
-        "code": "PHYS628.01",
+    "PHYS58S.01": {
+        "code": "PHYS58S.01",
         "credits": 4,
         "days": [],
         "ects": 10.0,
         "hours": [],
         "instructor": "OSMAN TEOMAN TURGUT",
-        "name": "GEOMETRIC APPROACH TO MECHANICS",
+        "name": "SP.TP.IN PHYS:INTRODUCTION TO GEOMETRIC MECHANICS",
         "rooms": [
             ""
         ]
@@ -46698,6 +46881,18 @@
         "hours": [],
         "instructor": "ARKADAŞ İNAN ÖZAKIN",
         "name": "M.S. THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "PHYS699.01": {
+        "code": "PHYS699.01",
+        "credits": 4,
+        "days": [],
+        "ects": 10.0,
+        "hours": [],
+        "instructor": "ARKADAŞ İNAN ÖZAKIN",
+        "name": "GUIDED RESEARCH",
         "rooms": [
             ""
         ]
@@ -46887,8 +47082,8 @@
         "instructor": "SELÇUK AYDIN",
         "name": "INTRODUCTION TO POLITICAL SCIENCE",
         "rooms": [
-            "NH 305",
-            "NH 305",
+            "NH 101",
+            "NH 101",
             "NH 305"
         ],
         "requiredForDept": [
@@ -46938,9 +47133,9 @@
         "instructor": "İSMAİL MUTLU",
         "name": "INTRODUC. TO TURKISH CONSTITUTIONAL LAW",
         "rooms": [
-            "EF 106",
-            "EF 106",
-            "EF 106"
+            "NH 305",
+            "NH 305",
+            "NH 301"
         ]
     },
     "POLS202.01": {
@@ -47009,7 +47204,7 @@
         "rooms": [
             "NH 101",
             "NH 101",
-            "NH 404"
+            "M 1170"
         ]
     },
     "POLS246.01": {
@@ -47206,30 +47401,30 @@
         "name": "MIDDLE EAST IN WORLD POLITICS",
         "rooms": [
             "İB 201",
-            "M 1100",
-            "M 1100"
+            "İB 103",
+            "İB 103"
         ]
     },
     "POLS346.01": {
         "code": "POLS346.01",
         "credits": 3,
         "days": [
-            "W",
-            "W",
-            "W"
+            "F",
+            "F",
+            "F"
         ],
         "ects": 5.0,
         "hours": [
-            5,
             6,
-            7
+            7,
+            8
         ],
         "instructor": "GÜL SOSAY",
         "name": "INTERNATIONAL ORGANIZATIONS",
         "rooms": [
-            "NH 304",
-            "NH 304",
-            "NH 304"
+            "İB 211",
+            "İB 211",
+            "İB 211"
         ]
     },
     "POLS370.01": {
@@ -47342,28 +47537,6 @@
             "İB 301"
         ]
     },
-    "POLS440.01": {
-        "code": "POLS440.01",
-        "credits": 3,
-        "days": [
-            "F",
-            "F",
-            "F"
-        ],
-        "ects": 6.0,
-        "hours": [
-            6,
-            7,
-            8
-        ],
-        "instructor": "ASLI ÇALKIVİK",
-        "name": "CURRENT ISSUES IN WORLD POLITICS",
-        "rooms": [
-            "İB 211",
-            "İB 211",
-            "İB 211"
-        ]
-    },
     "POLS461.01": {
         "code": "POLS461.01",
         "credits": 3,
@@ -47469,9 +47642,9 @@
         "instructor": "JAAN SULAIMAN İSLAM",
         "name": "AMERICAN FOREIGN POLICY",
         "rooms": [
-            "NH 201",
-            "NH 201",
-            "NH 202"
+            "NB Z12",
+            "NB Z12",
+            "JF 101"
         ]
     },
     "POLS482.01": {
@@ -48087,8 +48260,8 @@
             "KP 06",
             "KP 06",
             "KP 06",
-            "JF 333",
-            "JF 333"
+            "NB 118",
+            "NB 118"
         ]
     },
     "POR301.01": {
@@ -48118,8 +48291,8 @@
             "KP 06",
             "KP 06",
             "KP 06",
-            "JF 333",
-            "JF 333"
+            "NB 118",
+            "NB 118"
         ]
     },
     "PRED102.01": {
@@ -48239,7 +48412,11 @@
         "instructor": "SELİN  KİTİŞ KAÇAR",
         "name": "APPLIED CHILD DEVELOPMENT",
         "rooms": [
-            ""
+            "| N/A",
+            "N/A",
+            "N/A",
+            "ET B413",
+            "ET B413"
         ]
     },
     "PRED218.02": {
@@ -48706,7 +48883,9 @@
         "instructor": "HALUK POLAT",
         "name": "SP.TP.MUSIC THE.&VOCAL TRAIN.FOR PRE-SER",
         "rooms": [
-            ""
+            "ET B413",
+            "ET B413",
+            "ET B413"
         ]
     },
     "PRED48F.01": {
@@ -48864,7 +49043,7 @@
         "instructor": "YASEMİN SOHTORİK İLKMEN",
         "name": "ORIENTATION TO PSYCHOLOGY",
         "rooms": [
-            "M 2230"
+            "NB 119"
         ]
     },
     "PSY101.01": {
@@ -49009,7 +49188,7 @@
         "instructor": "İNCİ AYHAN",
         "name": "COGNITIVE PSYCHOLOGY",
         "rooms": [
-            "İB 103",
+            "NH 202",
             "M 1171",
             "M 1171"
         ]
@@ -49031,7 +49210,7 @@
         "instructor": "DENİZ TAHİROĞLU",
         "name": "LIFE SPAN DEVELOP.PSY.II:PERSONALITY&SOC",
         "rooms": [
-            "M 1171",
+            "M 3100",
             "NH 303",
             "NH 303"
         ]
@@ -49662,8 +49841,8 @@
         "instructor": "NATALIA DEMİRKAPILI",
         "name": "ELEMENTARY RUSSIAN I",
         "rooms": [
-            "İB 204",
-            "İB 204",
+            "EF 101",
+            "EF 101",
             "JF 334",
             "JF 334",
             "JF 331",
@@ -49697,8 +49876,8 @@
             "NB 118",
             "NB 118",
             "NB 118",
-            "İB 211",
-            "İB 211"
+            "İB 204",
+            "İB 204"
         ]
     },
     "RUS202.01": {
@@ -49724,8 +49903,8 @@
         "instructor": "NATALIA DEMİRKAPILI",
         "name": "PRE-INTERMEDIATE RUSSIAN II",
         "rooms": [
-            "İB 204",
-            "İB 204",
+            "EF 101",
+            "EF 101",
             "JF 334",
             "JF 334",
             "JF 331",
@@ -49759,8 +49938,8 @@
             "NB 118",
             "NB 118",
             "NB 118",
-            "NB 118",
-            "NB 118"
+            "JF 333",
+            "JF 333"
         ]
     },
     "SCED120.01": {
@@ -50028,9 +50207,9 @@
         "instructor": "KEMAL AKOĞLU",
         "name": "TEACHING THINKING",
         "rooms": [
-            "EF 103",
-            "EF 103",
-            "EF 103"
+            "EF 202",
+            "EF 106",
+            "EF 106"
         ]
     },
     "SCED342.01": {
@@ -50895,7 +51074,7 @@
         "instructor": "OLGA GIOKA",
         "name": "GRADUATE SEMINAR",
         "rooms": [
-            ""
+            "EF 304"
         ]
     },
     "SCED58G.01": {
@@ -50915,7 +51094,9 @@
         "instructor": "OLGA GIOKA",
         "name": "SP.TP.ACADEMIC WRIT.FOR GRADU.STUDENTS",
         "rooms": [
-            ""
+            "EF 304",
+            "EF 304",
+            "EF 304"
         ]
     },
     "SCED612.01": {
@@ -50955,7 +51136,9 @@
         "instructor": "ENGİN ADER",
         "name": "SP.TP.SELF REGULATION IN MATH&SCIENCE EDUCATION",
         "rooms": [
-            ""
+            "EF 101",
+            "EF 101",
+            "EF 101"
         ]
     },
     "SCED690.01": {
@@ -51630,6 +51813,1626 @@
             ""
         ]
     },
+    "SFL12A.01": {
+        "code": "SFL 12A.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MESUT ÖZTÜRK",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.02": {
+        "code": "SFL 12A.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BÜŞRA AYÇA KARAMAN",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.03": {
+        "code": "SFL 12A.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YILDIZ YILDIRIM",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.04": {
+        "code": "SFL 12A.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEDEF ÇETİN",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.05": {
+        "code": "SFL 12A.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÖNÜL TUĞBA AKDAĞ",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.06": {
+        "code": "SFL 12A.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ZEHRA BAHADIR",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.07": {
+        "code": "SFL 12A.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "HANİFE EMEL YÜKSEL AYTAR",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.08": {
+        "code": "SFL 12A.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEZA ÖKTEM",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.10": {
+        "code": "SFL 12A.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "DUYGU ŞİMŞEK ÖZDİNÇ",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.11": {
+        "code": "SFL 12A.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NAGİHAN KISA KAZ",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.12": {
+        "code": "SFL 12A.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEMİH TÜRKOĞLU",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.13": {
+        "code": "SFL 12A.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ESRA BENER",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12A.14": {
+        "code": "SFL 12A.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ELİF TÜRKOĞLU",
+        "name": "PROGRAM 1 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.01": {
+        "code": "SFL 12B.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "PETER HENRY ELLIS BOYCE",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.02": {
+        "code": "SFL 12B.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "PETER HENRY ELLIS BOYCE",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.03": {
+        "code": "SFL 12B.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "AYSUN BALKAN",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.04": {
+        "code": "SFL 12B.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "AYSUN BALKAN",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.05": {
+        "code": "SFL 12B.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BEGÜM ECE YILDIZ",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.06": {
+        "code": "SFL 12B.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BEGÜM ECE YILDIZ",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.07": {
+        "code": "SFL 12B.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FEYZA ÇELİKTAŞ",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.08": {
+        "code": "SFL 12B.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FEYZA ÇELİKTAŞ",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.10": {
+        "code": "SFL 12B.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEMA ÖZÇALLI",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.11": {
+        "code": "SFL 12B.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FUAT ÖZKUL",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.12": {
+        "code": "SFL 12B.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FUAT ÖZKUL",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.13": {
+        "code": "SFL 12B.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLNİHAL ÖZDENER",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL12B.14": {
+        "code": "SFL 12B.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLNİHAL ÖZDENER",
+        "name": "PROGRAM 1 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.01": {
+        "code": "SFL 22A.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MASOOD AZİMİ",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.02": {
+        "code": "SFL 22A.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MUSTAFA GÖNENÇ",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.03": {
+        "code": "SFL 22A.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MELİKE YILMAZ BAŞTUĞ",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.04": {
+        "code": "SFL 22A.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ASLIHAN AKIN",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.05": {
+        "code": "SFL 22A.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "I. ÇİÇEK GEZEK",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.06": {
+        "code": "SFL 22A.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ANELIA MIRZAMOVA",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.07": {
+        "code": "SFL 22A.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NURAY AKCA",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.08": {
+        "code": "SFL 22A.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "S.MERVE AKBAŞ",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.09": {
+        "code": "SFL 22A.09",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÖZLEM  TUNA",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.10": {
+        "code": "SFL 22A.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "CANSU TURAN",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.11": {
+        "code": "SFL 22A.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "TUBA YILMAZ",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.12": {
+        "code": "SFL 22A.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "HÜLYA ERSOY",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.13": {
+        "code": "SFL 22A.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜZİDE DEMİR",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.14": {
+        "code": "SFL 22A.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "PAUL WARREN WAITE JR",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.15": {
+        "code": "SFL 22A.15",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NESRİN KUTLAY",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.16": {
+        "code": "SFL 22A.16",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FİLİZ TÜRKMEN",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.17": {
+        "code": "SFL 22A.17",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EMRE KUTLAY",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22A.18": {
+        "code": "SFL 22A.18",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "HELİN BAŞAK",
+        "name": "PROGRAM 2 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.01": {
+        "code": "SFL 22B.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YEŞİM GÜRCİ",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.02": {
+        "code": "SFL 22B.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SOMAYEH TAHMOURESI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.03": {
+        "code": "SFL 22B.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ROGER ERIC HEWITT",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.04": {
+        "code": "SFL 22B.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ROGER ERIC HEWITT",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.05": {
+        "code": "SFL 22B.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÖKÇE KURUÇAY",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.06": {
+        "code": "SFL 22B.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÖKÇE KURUÇAY",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.07": {
+        "code": "SFL 22B.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MOHSEN ASKARI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.08": {
+        "code": "SFL 22B.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MOHSEN ASKARI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.09": {
+        "code": "SFL 22B.09",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "AZAM SAMADI RAHIM",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.10": {
+        "code": "SFL 22B.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "AZAM SAMADI RAHIM",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.11": {
+        "code": "SFL 22B.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÇAĞDAŞ KALAFAT",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.12": {
+        "code": "SFL 22B.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÇAĞDAŞ KALAFAT",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.13": {
+        "code": "SFL 22B.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SOMAYEH TAHMOURESI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.14": {
+        "code": "SFL 22B.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YEŞİM GÜRCİ",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.15": {
+        "code": "SFL 22B.15",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ELIZABETH K. RITCHIE",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.16": {
+        "code": "SFL 22B.16",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ELIZABETH K. RITCHIE",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.17": {
+        "code": "SFL 22B.17",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ATEFEH  MOHAMMADI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL22B.18": {
+        "code": "SFL 22B.18",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ATEFEH  MOHAMMADI",
+        "name": "PROGRAM 2 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.01": {
+        "code": "SFL 32A.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "DİDEM KUMBAROĞLU",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.02": {
+        "code": "SFL 32A.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BAHAREH MALMİR",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.03": {
+        "code": "SFL 32A.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÖZGE YAĞIŞ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.04": {
+        "code": "SFL 32A.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "İNAYET DENİZ ÖZGÖRGÜLÜ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.05": {
+        "code": "SFL 32A.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BEKİR ATEŞ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.06": {
+        "code": "SFL 32A.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BİNNAZ POŞUL",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.07": {
+        "code": "SFL 32A.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YUSUF CENGİZ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.08": {
+        "code": "SFL 32A.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NİL KURTULAN DEMİREL",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.09": {
+        "code": "SFL 32A.09",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÖZGE ÇAĞLAR AKSOY",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.10": {
+        "code": "SFL 32A.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ZEYNEP ABANOZ ÇELİK",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.11": {
+        "code": "SFL 32A.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MEHTAP ÖZKASAP",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.12": {
+        "code": "SFL 32A.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLAY TAŞSEVEN",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.13": {
+        "code": "SFL 32A.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "FATMA BAYRAM",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.14": {
+        "code": "SFL 32A.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BERAT BAŞER",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.15": {
+        "code": "SFL 32A.15",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "JÜLİDE BANU ÖZTÜRK İNEGÖLLÜOĞLU",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.16": {
+        "code": "SFL 32A.16",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ZAFER YAVAŞ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.17": {
+        "code": "SFL 32A.17",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EMEK AYŞE YILDIZ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.18": {
+        "code": "SFL 32A.18",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EDA ÜZÜM",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.19": {
+        "code": "SFL 32A.19",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MEHMET ÇELİKBAŞ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.20": {
+        "code": "SFL 32A.20",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ASLI SÜREYYA SAYMAN",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.21": {
+        "code": "SFL 32A.21",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MUSTAFA ERTÜRK",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32A.22": {
+        "code": "SFL 32A.22",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "AYŞEGÜL KORKMAZ",
+        "name": "PROGRAM 3 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.01": {
+        "code": "SFL 32B.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EBRU EROĞLU",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.02": {
+        "code": "SFL 32B.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.03": {
+        "code": "SFL 32B.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMUEL JAMES WILLS",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.04": {
+        "code": "SFL 32B.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BÜŞRA OKUMUŞ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.05": {
+        "code": "SFL 32B.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BÜŞRA OKUMUŞ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.06": {
+        "code": "SFL 32B.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMUEL JAMES WILLS",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.07": {
+        "code": "SFL 32B.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BÜŞRA OKUMUŞ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.08": {
+        "code": "SFL 32B.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.09": {
+        "code": "SFL 32B.09",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMUEL JAMES WILLS",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.10": {
+        "code": "SFL 32B.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EBRU EROĞLU",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.11": {
+        "code": "SFL 32B.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EBRU EROĞLU",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.12": {
+        "code": "SFL 32B.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.13": {
+        "code": "SFL 32B.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLTEN KÜÇÜK ÖZER",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.14": {
+        "code": "SFL 32B.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EBRU EROĞLU",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.15": {
+        "code": "SFL 32B.15",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÜLFET ÖĞÜT",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.16": {
+        "code": "SFL 32B.16",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.17": {
+        "code": "SFL 32B.17",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMUEL JAMES WILLS",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.18": {
+        "code": "SFL 32B.18",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "BÜŞRA OKUMUŞ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.19": {
+        "code": "SFL 32B.19",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÜLFET ÖĞÜT",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.20": {
+        "code": "SFL 32B.20",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.21": {
+        "code": "SFL 32B.21",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÜLFET ÖĞÜT",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL32B.22": {
+        "code": "SFL 32B.22",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÜLFET ÖĞÜT",
+        "name": "PROGRAM 3 SPRING B",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.01": {
+        "code": "SFL 42A.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "CHADA MOHAMAD CHEHIMI",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.02": {
+        "code": "SFL 42A.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "CHADA MOHAMAD CHEHIMI",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.03": {
+        "code": "SFL 42A.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ZEHRA AYDIN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.04": {
+        "code": "SFL 42A.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ZEHRA AYDIN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.05": {
+        "code": "SFL 42A.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YELİZ AYAN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.06": {
+        "code": "SFL 42A.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "YELİZ AYAN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.07": {
+        "code": "SFL 42A.07",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMİ BATOK",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.08": {
+        "code": "SFL 42A.08",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SAMİ BATOK",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.09": {
+        "code": "SFL 42A.09",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÖZDE HAN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.10": {
+        "code": "SFL 42A.10",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÖZDE HAN",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.11": {
+        "code": "SFL 42A.11",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MARILYN LEE",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.12": {
+        "code": "SFL 42A.12",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MARILYN LEE",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.13": {
+        "code": "SFL 42A.13",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NESRİN ATAK",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFL42A.14": {
+        "code": "SFL 42A.14",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "NESRİN ATAK",
+        "name": "PROGRAM 4 SPRING A",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLC02.01": {
+        "code": "SFL C02.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLNİHAL ÖZDENER",
+        "name": "COMPUTER LAB SESSION",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLC02.02": {
+        "code": "SFL C02.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "name": "COMPUTER LAB SESSION",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRL1.01": {
+        "code": "SFL RL1.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MELİKE UBUZ",
+        "name": "REMEDIAL LISTENING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRL1.02": {
+        "code": "SFL RL1.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GİZEM ALTINTAÇ",
+        "name": "REMEDIAL LISTENING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRL1.03": {
+        "code": "SFL RL1.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLÜZAR ÖZTÜRK",
+        "name": "REMEDIAL LISTENING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRL1.04": {
+        "code": "SFL RL1.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RAKESH JOBANPUTRA",
+        "name": "REMEDIAL LISTENING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRL1.05": {
+        "code": "SFL RL1.05",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "EMEL TOZLU",
+        "name": "REMEDIAL LISTENING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRR1.01": {
+        "code": "SFL RR1.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "MELİKE UBUZ",
+        "name": "REMEDIAL READING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRR1.02": {
+        "code": "SFL RR1.02",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GİZEM ALTINTAÇ",
+        "name": "REMEDIAL READING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRR1.03": {
+        "code": "SFL RR1.03",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "GÜLÜZAR ÖZTÜRK",
+        "name": "REMEDIAL READING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRR1.04": {
+        "code": "SFL RR1.04",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "ÖZGE DİŞLİ",
+        "name": "REMEDIAL READING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRR2.01": {
+        "code": "SFL RR2.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEMA ÖZÇALLI",
+        "name": "REMEDIAL READING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRW1.06": {
+        "code": "SFL RW1.06",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "RAKESH JOBANPUTRA",
+        "name": "REMEDIAL WRITING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLRW2.01": {
+        "code": "SFL RW2.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "SEMA ÖZÇALLI",
+        "name": "REMEDIAL WRITING",
+        "rooms": [
+            ""
+        ]
+    },
+    "SFLW02.01": {
+        "code": "SFL W02.01",
+        "credits": 0,
+        "days": [],
+        "ects": 0.0,
+        "hours": [],
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "name": "WRITING CENTER",
+        "rooms": [
+            ""
+        ]
+    },
     "SOC108.01": {
         "code": "SOC 108.01",
         "credits": 3,
@@ -51672,9 +53475,9 @@
         "instructor": "ALİ TUNA KUYUCU",
         "name": "SOCIOLOGICAL ANALYSIS",
         "rooms": [
-            "NH 305",
-            "NH 305",
-            "NH 301"
+            "M 3120",
+            "M 3120",
+            "M 3100"
         ],
         "requiredForDept": [
             "SOC"
@@ -51699,10 +53502,10 @@
         "instructor": "ALİ TUNA KUYUCU",
         "name": "INTRODUCTION TO RESEARCH METHODS",
         "rooms": [
-            "M 3100",
-            "M 3100",
-            "M 2152",
-            "M 2152"
+            "M 1170",
+            "M 1170",
+            "M 1100",
+            "M 1100"
         ]
     },
     "SOC224.01": {
@@ -51744,9 +53547,9 @@
         "instructor": "SOUAD OSSEIRAN",
         "name": "INTRODUCTION TO MIGRATION STUDIES",
         "rooms": [
-            "NB B10",
-            "NB B10",
-            "NB Z13"
+            "İB 211",
+            "İB 211",
+            "NB Z11"
         ]
     },
     "SOC272.01": {
@@ -51790,7 +53593,7 @@
         "rooms": [
             "NB Z11",
             "NB Z11",
-            "TB 240"
+            "NB Z11"
         ]
     },
     "SOC286.01": {
@@ -52061,8 +53864,8 @@
         "instructor": "CEREN ÖZSELÇUK",
         "name": "CONTEMPORARY SOCIAL THEORIES",
         "rooms": [
-            "M 1170",
-            "M 1170",
+            "VB 200",
+            "VB 200",
             "M 1170"
         ]
     },
@@ -53090,8 +54893,8 @@
         "instructor": "EMRE  KURUÇAYIRLI",
         "name": "ARCHEOMETRY II",
         "rooms": [
-            "KB 125",
-            "KB 125",
+            "KB 126",
+            "KB 126",
             "KB 125"
         ]
     },
@@ -54810,7 +56613,7 @@
             "NB Z10",
             "NB Z10",
             "NB Z10",
-            "NB Z13"
+            "NB Z11"
         ]
     },
     "TKF111.02": {
@@ -54998,10 +56801,10 @@
         "instructor": "FATMA BÜYÜKKARCI YILMAZ",
         "name": "OTTOMAN TURKISH I",
         "rooms": [
-            "NB Z11",
-            "NB Z11",
-            "NB Z11",
-            "NB Z11"
+            "M 3120",
+            "M 3120",
+            "M 2230",
+            "M 2230"
         ]
     },
     "TKL102.01": {
@@ -55187,9 +56990,9 @@
         "instructor": "ARZU ÇİFTOĞLU ÇABUK",
         "name": "TURKIC LANGUAGES & DIALECTS II",
         "rooms": [
-            "İB 103",
-            "İB 103",
-            "İB 103"
+            "NB B10",
+            "NB B10",
+            "NB B10"
         ]
     },
     "TKL216.01": {
@@ -55209,8 +57012,8 @@
         "instructor": "NAZLI İPEK HÜNER",
         "name": "OTTOMAN PALEOGRAPHY II",
         "rooms": [
-            "NB B10",
-            "NB B10",
+            "NB 119",
+            "NB 119",
             "NB 119"
         ],
         "requiredForDept": [
@@ -55257,8 +57060,8 @@
         "name": "LITERARY THEORY & PRACTICAL CRITICISM II",
         "rooms": [
             "NB 119",
-            "M 2230",
-            "M 2230"
+            "NB Z11",
+            "NB Z11"
         ]
     },
     "TKL312.01": {
@@ -55278,9 +57081,9 @@
         "instructor": "ZEYNEP OKTAY",
         "name": "TURKISH FOLK LITERATURE II",
         "rooms": [
-            "NB Z12",
-            "NB Z12",
-            "EF 04"
+            "NB Z11",
+            "NB Z11",
+            "İB 100"
         ]
     },
     "TKL314.01": {
@@ -55345,8 +57148,8 @@
         "name": "MYSTICISM IN TURKISH LITERATURE",
         "rooms": [
             "NB Z12",
-            "EF 04",
-            "EF 04"
+            "İB 100",
+            "İB 100"
         ]
     },
     "TKL434.01": {
@@ -55368,7 +57171,7 @@
         "rooms": [
             "NB B10",
             "NB B10",
-            "M 1171"
+            "M 3100"
         ]
     },
     "TKL48S.01": {
@@ -55411,8 +57214,8 @@
         "name": "SP.TP.LITERATURE & GEOGRAPHY",
         "rooms": [
             "NB Z12",
-            "NB Z11",
-            "NB Z11"
+            "NB Z12",
+            "NB Z12"
         ]
     },
     "TKL48Z.01": {
@@ -56012,7 +57815,7 @@
         "rooms": [
             "NH 203",
             "NH 203",
-            "EF 03"
+            "VB 100"
         ]
     },
     "TR106.02": {
@@ -56098,7 +57901,7 @@
         "instructor": "STAFF STAFF",
         "name": "TURKISH FOR TRANSLATORS",
         "rooms": [
-            "TB 490",
+            "TB 415",
             "JF 332",
             "JF 332"
         ]
@@ -56210,7 +58013,7 @@
         "rooms": [
             "JF 101",
             "JF 101",
-            "EF 302"
+            "İB 204"
         ]
     },
     "TR314.01": {
@@ -56274,9 +58077,9 @@
         "instructor": "ŞULE DEMİRKOL ERTÜRK",
         "name": "TRANSLATION CRITICISM",
         "rooms": [
-            "VB 201",
-            "VB 201",
-            "VB 201"
+            "VB 100",
+            "JF 333",
+            "JF 333"
         ]
     },
     "TR316.02": {
@@ -56320,7 +58123,7 @@
         "rooms": [
             "İB 312",
             "İB 312",
-            "EF 302"
+            "İB 204"
         ]
     },
     "TR318.01": {
@@ -56513,9 +58316,9 @@
         "instructor": "İREM KONCA",
         "name": "SP.TP.LEGAL TRANSLATION",
         "rooms": [
-            "EF 05",
-            "EF 05",
-            "EF 05"
+            "İB 103",
+            "İB 103",
+            "İB 103"
         ]
     },
     "TR48A.01": {
@@ -56904,20 +58707,20 @@
         "days": [
             "W",
             "W",
-            "Th"
+            "W"
         ],
         "ects": 5.0,
         "hours": [
+            3,
             4,
-            5,
-            6
+            5
         ],
         "instructor": "AYŞE NEVRA ERSARI",
         "name": "BUSINESS COMMUNICATION",
         "rooms": [
-            "HD 201",
-            "HD 201",
-            "HD 301"
+            "HC 107",
+            "HC 107",
+            "HC 107"
         ]
     },
     "TRM124.02": {
@@ -57113,8 +58916,8 @@
         "instructor": "DUYGU SALMAN ÖZTÜRK",
         "name": "ORGANIZATIONAL BEHAVIOR",
         "rooms": [
-            "HA 301",
-            "HA 301",
+            "HD 201",
+            "HD 201",
             "HD 201"
         ]
     },
@@ -57719,6 +59522,18 @@
         "ects": 60.0,
         "hours": [],
         "instructor": "AHMET UŞAKLI",
+        "name": "M.A. THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "TRM690.07": {
+        "code": "TRM 690.07",
+        "credits": 0,
+        "days": [],
+        "ects": 60.0,
+        "hours": [],
+        "instructor": "EZGİ ERKMEN",
         "name": "M.A. THESIS",
         "rooms": [
             ""
