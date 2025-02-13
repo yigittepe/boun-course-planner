@@ -3443,7 +3443,7 @@
         "instructor": "EDWARD MITCHELL",
         "name": "SP.TP.THE UTOPIAN IMPULSE",
         "rooms": [
-            "NH 402",
+            "NH 201",
             "M 2152",
             "M 2152"
         ]
@@ -3641,7 +3641,7 @@
         "instructor": "N.CİHAN YURDAÜN",
         "name": "INTRODUCTION TO AMERICAN STUDIES",
         "rooms": [
-            "KP 03",
+            "JF 331",
             "NH 404",
             "NH 404"
         ]
@@ -4553,6 +4553,18 @@
         "ects": 60.0,
         "hours": [],
         "instructor": "IRMAK ERTÖR",
+        "name": "MASTER THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "ATA690.09": {
+        "code": "ATA 690.09",
+        "credits": 0,
+        "days": [],
+        "ects": 60.0,
+        "hours": [],
+        "instructor": "FARUK YASLIÇİMEN",
         "name": "MASTER THESIS",
         "rooms": [
             ""
@@ -8706,28 +8718,6 @@
             "VYKM6"
         ]
     },
-    "CE561.01": {
-        "code": "CE  561.01",
-        "credits": 3,
-        "days": [
-            "W",
-            "W",
-            "W"
-        ],
-        "ects": 8.0,
-        "hours": [
-            5,
-            6,
-            7
-        ],
-        "instructor": "EYÜPHAN KOÇ",
-        "name": "TRANSPORTATION PLANNING AND MODELING",
-        "rooms": [
-            "M 2231",
-            "M 2231",
-            "M 2231"
-        ]
-    },
     "CE564.01": {
         "code": "CE  564.01",
         "credits": 3,
@@ -11956,7 +11946,7 @@
         "instructor": "REYHAN İŞERİ",
         "name": "GENERAL CHEMISTRY LABORATORY",
         "rooms": [
-            "KB 125"
+            "KB Z01"
         ],
         "requiredForDept": [
             "CEDU",
@@ -12360,7 +12350,7 @@
         "instructor": "ÖZGE AKDENİZ",
         "name": "INSTRUMENTAL ANALYSIS LABORATORY",
         "rooms": [
-            "KB Z01"
+            "KB 125"
         ]
     },
     "CHEM226.04 LAB 1": {
@@ -13903,7 +13893,7 @@
         "instructor": "JAMESON J.KISMET BELL",
         "name": "SP.TP. POETIC GEOGRAPHIES OF DIVIDED CITIES",
         "rooms": [
-            "NH 303",
+            "NH 203",
             "VB 100",
             "VB 100"
         ]
@@ -16733,6 +16723,18 @@
             ""
         ]
     },
+    "CSE552.05": {
+        "code": "CSE 552.05",
+        "credits": 3,
+        "days": [],
+        "ects": 8.0,
+        "hours": [],
+        "instructor": "ARKADAŞ İNAN ÖZAKIN",
+        "name": "COMPUTATIONAL PROJECT",
+        "rooms": [
+            ""
+        ]
+    },
     "CSE552.06": {
         "code": "CSE 552.06",
         "credits": 3,
@@ -16932,6 +16934,18 @@
         "ects": 60.0,
         "hours": [],
         "instructor": "SEYFULLAH ENES KOTİL",
+        "name": "M.S. THESIS",
+        "rooms": [
+            ""
+        ]
+    },
+    "CSE690.10": {
+        "code": "CSE 690.10",
+        "credits": 0,
+        "days": [],
+        "ects": 60.0,
+        "hours": [],
+        "instructor": "ARKADAŞ İNAN ÖZAKIN",
         "name": "M.S. THESIS",
         "rooms": [
             ""
@@ -18990,7 +19004,7 @@
             3,
             4
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "EBRU KILIÇ BEBEK",
         "name": "SOCIAL FOUNDATIONS OF EDUCATION",
         "rooms": [
             "EF 204",
@@ -19692,9 +19706,9 @@
         "instructor": "ABDULLAH AZZAM TÜZGEN",
         "name": "SP.TP. COUNSELING GIFTED CHILDREN",
         "rooms": [
-            "EF 203",
-            "EF 203",
-            "EF 203"
+            "EF 205",
+            "EF 205",
+            "EF 205"
         ]
     },
     "ED49D.01": {
@@ -22334,9 +22348,9 @@
         "instructor": "JAMESON J.KISMET BELL",
         "name": "THE ENGLISH RENAISSANCE",
         "rooms": [
-            "NH 403",
-            "NH 403",
-            "NH 403"
+            "NH 201",
+            "NH 201",
+            "NH 201"
         ]
     },
     "EL305.01": {
@@ -25948,7 +25962,7 @@
         "instructor": "GÜLCAN ERÇETİN",
         "name": "PRACTICE TEACHING IN ENGLISH AS A FOREIGN LANGUAGE II",
         "rooms": [
-            ""
+            "EF 205"
         ]
     },
     "FLED412.02 LAB 1": {
@@ -26182,7 +26196,7 @@
         "instructor": "IŞIL ERDUYAN",
         "name": "PRACTICE TEACHING IN ENGLISH AS A FOREIGN LANGUAGE II",
         "rooms": [
-            ""
+            "EF 203"
         ]
     },
     "FLED412.09 LAB 1": {
@@ -26218,7 +26232,8 @@
         "instructor": "ŞEBNEM YALÇIN",
         "name": "PRACTICE TEACHING IN ENGLISH AS A FOREIGN LANGUAGE II",
         "rooms": [
-            ""
+            "EF 201",
+            "EF 201"
         ]
     },
     "FLED412.10 LAB 1": {
@@ -27088,12 +27103,12 @@
         "instructor": "ULAŞ AKARSU",
         "name": "ELEMENTARY FRENCH I",
         "rooms": [
-            "JF 331",
-            "JF 331",
-            "JF 334",
-            "JF 334",
-            "JF 332",
-            "JF 332"
+            "EF 102",
+            "EF 102",
+            "EF 203",
+            "EF 203",
+            "EF 101",
+            "EF 101"
         ]
     },
     "FR101.04": {
@@ -27212,12 +27227,12 @@
         "instructor": "ULAŞ AKARSU",
         "name": "ELEMENTARY FRENCH II",
         "rooms": [
-            "JF 331",
-            "JF 331",
-            "JF 102",
-            "JF 102",
-            "JF 332",
-            "JF 332"
+            "EF 102",
+            "EF 102",
+            "EF 203",
+            "EF 203",
+            "EF 101",
+            "EF 101"
         ]
     },
     "FR201.01": {
@@ -27274,10 +27289,10 @@
         "instructor": "PINAR PEKTAŞ",
         "name": "INTERMEDIATE FRENCH I",
         "rooms": [
-            "EF 102",
-            "EF 102",
-            "EF 203",
-            "EF 203",
+            "JF 331",
+            "JF 331",
+            "JF 334",
+            "JF 334",
             "EF 201",
             "EF 201"
         ]
@@ -27398,10 +27413,10 @@
         "instructor": "PINAR PEKTAŞ",
         "name": "INTERMEDIATE FRENCH II",
         "rooms": [
-            "EF 102",
-            "EF 102",
-            "EF 203",
-            "EF 203",
+            "JF 331",
+            "JF 331",
+            "JF 334",
+            "JF 334",
             "EF 201",
             "EF 201"
         ]
@@ -29351,9 +29366,9 @@
         "instructor": "ŞAHİN BAYKAL",
         "name": "ISLAMIC HISTORY & SOCIETIES,1000-1500",
         "rooms": [
-            "VB 201",
-            "VB 201",
-            "M 2152"
+            "EF 106",
+            "EF 106",
+            "EF 206"
         ]
     },
     "HIST242.01": {
@@ -29397,7 +29412,7 @@
         "rooms": [
             "JF 331",
             "JF 331",
-            "M 2152"
+            "NH 404"
         ]
     },
     "HIST322.01": {
@@ -29462,8 +29477,8 @@
         "name": "HIST.OF THE BYZANTINE EMPIRE,9-15 CENTUR",
         "rooms": [
             "TB 490",
-            "İB 312",
-            "İB 312"
+            "İB 204",
+            "İB 204"
         ]
     },
     "HIST344.01": {
@@ -29507,7 +29522,7 @@
         "rooms": [
             "KP 07",
             "KP 07",
-            "TB 490"
+            "JF 331"
         ]
     },
     "HIST351.01": {
@@ -29681,9 +29696,9 @@
         "instructor": "PETER ROBERT CAMPBELL",
         "name": "SP.TP.CULTURE AS A TOPIC OF HIST.INQUIRY",
         "rooms": [
-            "EF 203",
-            "EF 203",
-            "EF 203"
+            "EF 205",
+            "EF 205",
+            "EF 205"
         ]
     },
     "HIST48A.01": {
@@ -29983,13 +29998,23 @@
     "HIST49Z.01": {
         "code": "HIST49Z.01",
         "credits": 3,
-        "days": [],
+        "days": [
+            "Th",
+            "Th",
+            "Th"
+        ],
         "ects": 5.0,
-        "hours": [],
+        "hours": [
+            6,
+            7,
+            8
+        ],
         "instructor": "HURİCİHAN İSLAMOĞLU",
         "name": "SP.TP.A GLOBAL HISTORY OF CAPITALISM II",
         "rooms": [
-            ""
+            "NH 001",
+            "NH 001",
+            "NH 001"
         ]
     },
     "HIST502.01": {
@@ -32376,7 +32401,8 @@
         "instructor": "ÜMİT BİLGE",
         "name": "GRADUATE SEMINAR",
         "rooms": [
-            ""
+            "VYKM6",
+            "VYKM6"
         ]
     },
     "IE790.01": {
@@ -33827,8 +33853,8 @@
         "instructor": "VINCENZA IADEVAIA",
         "name": "PRE-INTERMEDIATE ITALIAN I",
         "rooms": [
-            "EF 05",
-            "EF 05",
+            "KP 03",
+            "KP 03",
             "KP 04",
             "KP 04",
             "KP 04",
@@ -33920,8 +33946,8 @@
         "instructor": "VINCENZA IADEVAIA",
         "name": "UPPER INTERMEDIATE ITALIAN II",
         "rooms": [
-            "EF 05",
-            "EF 05",
+            "KP 03",
+            "KP 03",
             "KP 04",
             "KP 04",
             "KP 04",
@@ -38201,7 +38227,7 @@
         "instructor": "MURAT ÇELİK",
         "name": "COMPUTER APPLICATIONS IN MECHANICAL ENG",
         "rooms": [
-            "VYKM4",
+            "VYKM3",
             "M 3160",
             "M 3160"
         ]
@@ -44455,7 +44481,7 @@
         "rooms": [
             "NH 302",
             "NH 302",
-            "NH 303"
+            "NH 104"
         ]
     },
     "PHIL112.01": {
@@ -46261,8 +46287,8 @@
         "rooms": [
             "KB Z01",
             "KB Z01",
-            "NH 403",
-            "NH 403"
+            "NH 404",
+            "NH 404"
         ]
     },
     "PHYS412.01": {
@@ -48836,9 +48862,8 @@
         "instructor": "ERSOY ERDEMİR",
         "name": "EARLY CHILDHOOD EDUCATION TEACHING PRACTICES",
         "rooms": [
-            "| N/A",
-            "ET 01",
-            "ET 01"
+            "NH 402",
+            "NH 402"
         ]
     },
     "PRED424.02": {
@@ -49162,7 +49187,7 @@
             2,
             3
         ],
-        "instructor": "NİHAN ALBAYRAK AYDEMİR",
+        "instructor": "İNCİ AYHAN",
         "name": "INTRO. TO STATISTICS FOR PSYCHOLOGY II",
         "rooms": [
             "M 1171",
@@ -49249,8 +49274,8 @@
         ],
         "ects": 7.0,
         "hours": [
-            1,
             2,
+            3,
             1,
             2,
             3
@@ -49258,8 +49283,8 @@
         "instructor": "DENİZ TAHİROĞLU",
         "name": "EXPERIMENTAL PSYCHOLOGY",
         "rooms": [
-            "JF 102",
-            "JF 102",
+            "NH 303",
+            "NH 303",
             "EF 203",
             "EF 203",
             "EF 203"
@@ -49507,22 +49532,22 @@
         "code": "PSY 498.01",
         "credits": 3,
         "days": [
-            "F",
-            "F",
-            "F"
+            "W",
+            "W",
+            "W"
         ],
         "ects": 5.0,
         "hours": [
-            9,
-            10,
-            11
+            4,
+            5,
+            6
         ],
         "instructor": "ZEHRA MERVE KAYA",
         "name": "R&R CLINICAL PSYCHOLOGY",
         "rooms": [
-            "NB Z10",
-            "NB Z10",
-            "NB Z10"
+            "NH 403",
+            "NH 403",
+            "NH 403"
         ]
     },
     "PSY49D.01": {
@@ -49876,8 +49901,8 @@
             "NB 118",
             "NB 118",
             "NB 118",
-            "İB 204",
-            "İB 204"
+            "İB 312",
+            "İB 312"
         ]
     },
     "RUS202.01": {
@@ -51015,7 +51040,7 @@
             2,
             3
         ],
-        "instructor": "ÖZDEN ŞENGÜL",
+        "instructor": "GÜLSEREN KARAGÖZ AKAR",
         "name": "SCIENCE/MATHEMATICS CURRICULUM DEVELOPMENT STUDY",
         "rooms": [
             ""
@@ -51405,6 +51430,18 @@
             ""
         ]
     },
+    "SCED690.23": {
+        "code": "SCED690.23",
+        "credits": 0,
+        "days": [],
+        "ects": 60.0,
+        "hours": [],
+        "instructor": "GÜLSEREN KARAGÖZ AKAR",
+        "name": "MASTER'S THESIS IN SCIENCE EDUCATION",
+        "rooms": [
+            ""
+        ]
+    },
     "SCED692.01": {
         "code": "SCED692.01",
         "credits": 4,
@@ -51508,6 +51545,18 @@
         "ects": 120.0,
         "hours": [],
         "instructor": "SEVDA YERDELEN DAMAR",
+        "name": "DOCTORAL DISSERTATION",
+        "rooms": [
+            ""
+        ]
+    },
+    "SCED790.07": {
+        "code": "SCED790.07",
+        "credits": 0,
+        "days": [],
+        "ects": 120.0,
+        "hours": [],
+        "instructor": "GÜLSEREN KARAGÖZ AKAR",
         "name": "DOCTORAL DISSERTATION",
         "rooms": [
             ""
@@ -54693,8 +54742,8 @@
             "EF 104",
             "JF 101",
             "JF 101",
-            "ET 03",
-            "ET 03"
+            "EF 205",
+            "EF 205"
         ]
     },
     "SPA202.02": {
@@ -54776,8 +54825,8 @@
             "EF 104",
             "JF 101",
             "JF 101",
-            "ET 03",
-            "ET 03"
+            "EF 104",
+            "EF 104"
         ]
     },
     "SPA302.01": {
@@ -56828,8 +56877,8 @@
         "rooms": [
             "M 2152",
             "M 2152",
-            "NH 102",
-            "NH 102"
+            "İB 100",
+            "İB 100"
         ],
         "requiredForDept": [
             "TKL"
@@ -56947,8 +56996,8 @@
         "name": "METHODS OF ANALYSING DIVAN POETRY",
         "rooms": [
             "İB 100",
-            "NB Z13",
-            "NB Z13"
+            "TB 240",
+            "TB 240"
         ]
     },
     "TKL212.01": {
@@ -57105,7 +57154,7 @@
         "rooms": [
             "İB 100",
             "İB 100",
-            "NB Z13"
+            "İB 301"
         ]
     },
     "TKL402.01": {
@@ -57148,8 +57197,8 @@
         "name": "MYSTICISM IN TURKISH LITERATURE",
         "rooms": [
             "NB Z12",
-            "İB 100",
-            "İB 100"
+            "İB 312",
+            "İB 312"
         ]
     },
     "TKL434.01": {
