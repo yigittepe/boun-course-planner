@@ -4558,18 +4558,6 @@
             ""
         ]
     },
-    "ATA690.09": {
-        "code": "ATA 690.09",
-        "credits": 0,
-        "days": [],
-        "ects": 60.0,
-        "hours": [],
-        "instructor": "FARUK YASLIÇİMEN",
-        "name": "MASTER THESIS",
-        "rooms": [
-            ""
-        ]
-    },
     "ATA700.01": {
         "code": "ATA 700.01",
         "credits": 0,
@@ -5325,7 +5313,7 @@
         "instructor": "STEFAN FUSS",
         "name": "NEUROSCIENCE",
         "rooms": [
-            "KP 01",
+            "KP 08",
             "KP 09",
             "KP 09"
         ]
@@ -8663,15 +8651,15 @@
         "ects": 6.0,
         "hours": [
             8,
-            2,
-            3
+            7,
+            8
         ],
         "instructor": "İREM ZEYNEP YILDIRIM",
         "name": "SP.TP.SLOPES&EARTH RETAINING STRUCTURES",
         "rooms": [
-            "VYKM6",
-            "VYKM4",
-            "VYKM4"
+            "VYKM2",
+            "VYKM2",
+            "VYKM2"
         ]
     },
     "CE49X.01": {
@@ -10978,18 +10966,21 @@
         "credits": 3,
         "days": [
             "Th",
+            "Th",
             "Th"
         ],
         "ects": 8.0,
         "hours": [
             5,
-            6
+            6,
+            7
         ],
         "instructor": "BETÜL URALCAN",
         "name": "SP. TP.:   FOUNDATIONS AND APPLICATIONS OF MOLECULAR MODELING AND SIMULATION",
         "rooms": [
-            "KB 432",
-            "KB 432"
+            "KB DAĞÖZAY-234",
+            "KB DAĞÖZAY-234",
+            "KB DAĞÖZAY-234"
         ]
     },
     "CHE583.01": {
@@ -14254,8 +14245,8 @@
         "instructor": "HÜSEYİN BİRKAN YILMAZ",
         "name": "DISCRETE COMPUTATIONAL STRUCTURES",
         "rooms": [
-            "BM A5",
-            "BM A5",
+            "BM A3",
+            "BM A3",
             "BM A2"
         ]
     },
@@ -14673,8 +14664,8 @@
         "name": "SP.TOP. INTRODUCTION TO GAME PROGRAMMING",
         "rooms": [
             "BM A4",
-            "BM A3",
-            "BM A3"
+            "BM A5",
+            "BM A5"
         ]
     },
     "CMPE487.01": {
@@ -14828,9 +14819,9 @@
         "instructor": "TUNGA GÜNGÖR",
         "name": "MACHINE TRANSLATION",
         "rooms": [
-            "BM B3",
-            "BM B3",
-            "BM B3"
+            "BM A6",
+            "BM A6",
+            "BM A6"
         ]
     },
     "CMPE511.01": {
@@ -24529,7 +24520,7 @@
             7,
             8
         ],
-        "instructor": "STAFF STAFF",
+        "instructor": "SUAT GENÇ",
         "name": "PROJECT MANAGEMENT IN ENGG.&TECHNOLOGY",
         "rooms": [
             ""
@@ -24593,7 +24584,7 @@
         "days": [],
         "ects": 1.0,
         "hours": [],
-        "instructor": "STAFF STAFF",
+        "instructor": "SUAT GENÇ",
         "name": "CASE STUDIES IN ETM",
         "rooms": [
             ""
@@ -25091,9 +25082,9 @@
         "instructor": "DİDEM PEKÜN",
         "name": "SP.TP.EXPERIMENTAL CINEMA",
         "rooms": [
-            "JF 334",
-            "JF 334",
-            "JF 334"
+            "TB 415",
+            "TB 415",
+            "TB 415"
         ]
     },
     "FA490.01": {
@@ -25771,8 +25762,8 @@
         "instructor": "BELMA HAZNEDAR",
         "name": "CHILDHOOD BILINGUALISM&BILINGUAL EDUC.",
         "rooms": [
-            "EF 06",
-            "EF 06",
+            "EF 203",
+            "EF 203",
             "EF 302"
         ]
     },
@@ -26324,7 +26315,8 @@
         "instructor": "YASSER TEIMOURI",
         "name": "PRACTICE TEACHING IN ENGLISH AS A FOREIGN LANGUAGE II",
         "rooms": [
-            ""
+            "EF 05",
+            "EF 05"
         ]
     },
     "FLED412.13 LAB 1": {
@@ -30229,6 +30221,26 @@
             ""
         ]
     },
+    "HIST58W.01": {
+        "code": "HIST58W.01",
+        "credits": 3,
+        "days": [
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "ects": 6.0,
+        "hours": [
+            8,
+            9,
+            10
+        ],
+        "instructor": "YAŞAR TOLGA CORA",
+        "name": "SP.TP.READINGS IN LATE OTTOMAN HISTORY",
+        "rooms": [
+            ""
+        ]
+    },
     "HIST592.01": {
         "code": "HIST592.01",
         "credits": 3,
@@ -31144,8 +31156,8 @@
         "instructor": "FARUK YASLIÇİMEN",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
-            "EF 04",
-            "EF 04"
+            "NH 301",
+            "NH 301"
         ]
     },
     "HTR312.22": {
@@ -31163,8 +31175,8 @@
         "instructor": "FARUK YASLIÇİMEN",
         "name": "HISTORY OF THE TURKISH REPUBLIC II",
         "rooms": [
-            "EF 04",
-            "EF 04"
+            "NH 301",
+            "NH 301"
         ]
     },
     "HTR312.23": {
@@ -42340,6 +42352,131 @@
             "HB 101"
         ]
     },
+    "PA482.01": {
+        "code": "PA  482.01",
+        "credits": 3,
+        "days": [
+            "W",
+            "W",
+            "F",
+            "F"
+        ],
+        "ects": 5.0,
+        "hours": [
+            8,
+            9,
+            6,
+            7
+        ],
+        "instructor": "STAFF STAFF",
+        "name": "SP.TP.ISLAMIC ARTS AND VISUAL CULTURE",
+        "rooms": [
+            "KB SHANNON-232",
+            "KB SHANNON-232",
+            "KB SHANNON-232",
+            "KB SHANNON-232"
+        ]
+    },
+    "PA484.01": {
+        "code": "PA  484.01",
+        "credits": 2,
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "ects": 4.0,
+        "hours": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "instructor": "STAFF STAFF",
+        "name": "INTRODUCTION TO DRAWING",
+        "rooms": [
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE"
+        ]
+    },
+    "PA485.01": {
+        "code": "PA  485.01",
+        "credits": 2,
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "ects": 4.0,
+        "hours": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "instructor": "STAFF STAFF",
+        "name": "SPECIAL TOPICS IN CERAMICS: ISLAMIC TILES",
+        "rooms": [
+            "REVİR ALTI",
+            "REVİR ALTI",
+            "REVİR ALTI",
+            "REVİR ALTI"
+        ]
+    },
+    "PA486.01": {
+        "code": "PA  486.01",
+        "credits": 2,
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "ects": 4.0,
+        "hours": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "instructor": "STAFF STAFF",
+        "name": "ISLAMIC CALLIGRAPHY (HÜSN-İ HAT",
+        "rooms": [
+            "KB SHANNON-232",
+            "KB SHANNON-232",
+            "KB SHANNON-232",
+            "KB SHANNON-232"
+        ]
+    },
+    "PA487.01": {
+        "code": "PA  487.01",
+        "credits": 2,
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "ects": 4.0,
+        "hours": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "instructor": "STAFF STAFF",
+        "name": "SPECIAL TOPICS: ISLAMIC ART ILLUSTRATED",
+        "rooms": [
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE",
+            "HÜLYA ATÖLYE"
+        ]
+    },
     "PE102.01": {
         "code": "PE  102.01",
         "credits": 1,
@@ -44476,7 +44613,7 @@
             4,
             7
         ],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "PHILOSOPHICAL TEXTS",
         "rooms": [
             "NH 302",
@@ -44798,7 +44935,7 @@
         "instructor": "HAYDAR OĞUZ ERDİN",
         "name": "SP.TP.INTERACTIVISM SEQUEL",
         "rooms": [
-            "TB 415",
+            "TB 490",
             "JF 507",
             "JF 507"
         ]
@@ -44973,7 +45110,7 @@
         "days": [],
         "ects": 6.0,
         "hours": [],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "INDEPENDENT STUDY",
         "rooms": [
             ""
@@ -45067,7 +45204,7 @@
             2,
             3
         ],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "SP.TP.PHILOSOPHY OF LAW",
         "rooms": [
             "TB 480"
@@ -45219,7 +45356,7 @@
         "days": [],
         "ects": 10.0,
         "hours": [],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "DIRECTED STUDY",
         "rooms": [
             ""
@@ -45363,7 +45500,7 @@
         "days": [],
         "ects": 60.0,
         "hours": [],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "MASTER THESIS",
         "rooms": [
             ""
@@ -45507,7 +45644,7 @@
         "days": [],
         "ects": 120.0,
         "hours": [],
-        "instructor": "NEDİM NAİM NOMER",
+        "instructor": "NEDİM NOMER",
         "name": "DOCTORAL DISSERTATION",
         "rooms": [
             ""
@@ -49213,7 +49350,7 @@
         "instructor": "İNCİ AYHAN",
         "name": "COGNITIVE PSYCHOLOGY",
         "rooms": [
-            "NH 202",
+            "NH 305",
             "M 1171",
             "M 1171"
         ]
@@ -49235,7 +49372,7 @@
         "instructor": "DENİZ TAHİROĞLU",
         "name": "LIFE SPAN DEVELOP.PSY.II:PERSONALITY&SOC",
         "rooms": [
-            "M 3100",
+            "NH 002",
             "NH 303",
             "NH 303"
         ]
@@ -51083,7 +51220,9 @@
         "instructor": "SERKAN ARIKAN",
         "name": "TEST CONSTRUCTION IN SCIENCE&MATH.ED.",
         "rooms": [
-            ""
+            "EF 316",
+            "EF 316",
+            "EF 316"
         ]
     },
     "SCED579.01": {
@@ -52876,7 +53015,7 @@
         "days": [],
         "ects": 0.0,
         "hours": [],
-        "instructor": "EBRU EROĞLU",
+        "instructor": "EBRU BANK",
         "name": "PROGRAM 3 SPRING B",
         "rooms": [
             ""
@@ -52984,7 +53123,7 @@
         "days": [],
         "ects": 0.0,
         "hours": [],
-        "instructor": "EBRU EROĞLU",
+        "instructor": "EBRU BANK",
         "name": "PROGRAM 3 SPRING B",
         "rooms": [
             ""
@@ -52996,7 +53135,7 @@
         "days": [],
         "ects": 0.0,
         "hours": [],
-        "instructor": "EBRU EROĞLU",
+        "instructor": "EBRU BANK",
         "name": "PROGRAM 3 SPRING B",
         "rooms": [
             ""
@@ -53032,7 +53171,7 @@
         "days": [],
         "ects": 0.0,
         "hours": [],
-        "instructor": "EBRU EROĞLU",
+        "instructor": "EBRU BANK",
         "name": "PROGRAM 3 SPRING B",
         "rooms": [
             ""
@@ -53526,7 +53665,7 @@
         "rooms": [
             "M 3120",
             "M 3120",
-            "M 3100"
+            "NH 201"
         ],
         "requiredForDept": [
             "SOC"
@@ -53662,8 +53801,8 @@
         "instructor": "SAYGUN GÖKARIKSEL",
         "name": "POLITICAL ANTHROPOLOGY",
         "rooms": [
-            "NB B10",
-            "NB B10",
+            "NH 102",
+            "NH 102",
             "M 2152"
         ]
     },
@@ -53691,8 +53830,8 @@
             "JF 331",
             "JF 331",
             "JF 331",
-            "NB B10",
-            "NB B10"
+            "JF 102",
+            "JF 102"
         ]
     },
     "SOC306.01": {
@@ -56804,7 +56943,7 @@
         "instructor": "Z.CEYDA ARSLAN",
         "name": "ADVANCED TURKISH GRAM.FOR FOREIGNERS II",
         "rooms": [
-            "EF 101",
+            "M 1169",
             "NB Z12",
             "NB Z12"
         ]
@@ -57253,7 +57392,7 @@
             "T",
             "T"
         ],
-        "ects": 0.0,
+        "ects": 6.0,
         "hours": [
             6,
             7,
@@ -58040,7 +58179,7 @@
         "rooms": [
             "JF 334",
             "JF 334",
-            "JF 333"
+            "JF 102"
         ]
     },
     "TR110.03": {
@@ -58212,8 +58351,8 @@
         "name": "TRANSLATION HISTORY",
         "rooms": [
             "JF 101",
-            "JF 102",
-            "JF 102"
+            "JF 333",
+            "JF 333"
         ]
     },
     "TR427.01": {
